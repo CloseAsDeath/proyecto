@@ -50,7 +50,16 @@ https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 
 #EXTINF:0,ETC TV
 #EXTGRP:NACIONALES
-http://200.95.184.125:8000/play/a0du
+http://190.211.175.226:8000/play/a0c4/index.m3u8
+#EXTINF:0,Chilevisión
+#EXTGRP:NACIONALES
+http://179.49.211.75:8000/play/a063/index.m3u8
+#EXTINF:0,TVN
+#EXTGRP:NACIONALES
+http://45.4.169.10:21233/play/a01b
+#EXTINF:0,Mega 2
+#EXTGRP:NACIONALES
+http://45.4.169.50:8000/play/a02c
 #EXTINF:0,Mega
 #EXTGRP:NACIONALES
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
