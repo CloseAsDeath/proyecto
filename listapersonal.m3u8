@@ -15,6 +15,9 @@ http://181.13.173.86:8000/play/a0af/index.m3u8
 #EXTINF:0,TNT Sports Premium CL
 #EXTGRP:DEPORTES
 http://45.4.169.10:21233/play/a06t
+#EXTINF:0,TNT Sports CL
+#EXTGRP:DEPORTES
+http://179.56.190.187:8000/play/a0tw/index.m3u8
 #EXTINF:0,TNT Sports Argentina
 #EXTGRP:DEPORTES
 http://143.0.67.77:8000/play/a0bc/index.m3u8
@@ -46,10 +49,13 @@ http://181.78.105.146:8800/play/a07e
 #EXTINF:0,Cartoon Network
 #EXTGRP:CABLE
 http://181.78.208.106:9000/play/a007
+#EXTINF:0,Adult Swim
+#EXTGRP:CABLE
+http://190.211.0.118:8000/play/a0dt
 #EXTINF:0,Rakuten Viki
 #EXTGRP:CABLE
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/048a962c-e84b-4a0e-aeb3-98376f4b9953/2.m3u8?
-#EXTINF:0,K-POP Samsung TV Plus
+#EXTINF:0,K-POP by CJ ENM
 #EXTGRP:CABLE
 https://cc-s23bl4el34qh7.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-s23bl4el34qh7/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
 #EXTINF:0,LA1
