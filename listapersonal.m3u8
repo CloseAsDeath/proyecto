@@ -67,12 +67,16 @@ http://185.189.225.150:85/La2HD/index.m3u8
 #EXTINF:0,CLAN TV
 #EXTGRP:CABLE
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
-#EXTINF:-1.ANTENA 3 
+#EXTINF:0,ANTENA 3 
+#EXTGRP:CABLE
 http://185.189.225.150:85/Antena3HD/index.m3u8
 #EXTGRP:CABLE
-#EXTINF:-1.LA SEXTA 
-http://185.189.225.150:85/LaSexta/index.m3u8
+#EXTINF:0,LA SEXTA 
 #EXTGRP:CABLE
+http://185.189.225.150:85/LaSexta/index.m3u8
+#EXTINF:0,MEGA
+#EXTGRP:CABLE
+http://185.189.225.150:85/mega/index.m3u8
 #EXTINF:0,POPCORN CENTRAL
 #EXTGRP:CABLE
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
