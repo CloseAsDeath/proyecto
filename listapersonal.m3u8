@@ -5,8 +5,11 @@
 https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8
 #EXTINF:0,ESPN CL
 #EXTGRP:DEPORTES
-http://45.4.169.50:8000/play/a06w
+http://201.222.45.70:4000/play/a08h/index.m3u8
 #EXTINF:0,ESPN AR
+#EXTGRP:DEPORTES
+http://45.4.169.50:8000/play/a06w
+#EXTINF:0,ESPN AR (Op. 2)
 #EXTGRP:DEPORTES
 http://181.13.173.86:8000/play/a0af/index.m3u8
 #EXTINF:0,TNT Sports Premium CL
@@ -17,7 +20,7 @@ http://45.4.169.10:21233/play/a06t
 http://143.0.67.77:8000/play/a0bc/index.m3u8
 #EXTINF:0,DirecTV Sports HD PE
 #EXTGRP:DEPORTES
-http://186.148.196.82:8001/play/a035
+http://200.37.52.93:8000/play/a1ul/index.m3u8
 #EXTINF:0,TyC Sports SD
 #EXTGRP:DEPORTES
 http://170.79.235.134:8010/play/a2md/index.m3u8
