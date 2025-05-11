@@ -1,34 +1,34 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-lam.png",ESPN CL
+#EXTINF:-1 tvg-id="ESPNChile.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN CL
 #EXTGRP:DEPORTES
 http://201.222.45.70:4000/play/a08h/index.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-lam.png",#EXTINF:0,ESPN AR
+#EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png"ESPN AR
 #EXTGRP:DEPORTES
 http://45.4.169.50:8000/play/a06w
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-lam.png",#EXTINF:0,ESPN AR (Op. 2)
+#EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN AR (Op. 2)
 #EXTGRP:DEPORTES
 http://181.13.173.86:8000/play/a0af/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png",ESPN 2
 #EXTGRP:DEPORTES
 http://186.96.98.138:19000/play/a06k
-#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png",ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN2.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png",ESPN 2 HD
 #EXTGRP:DEPORTES
 http://45.4.169.50:8000/play/a06u
-#EXTINF:0,ESPN Premium CL
+#EXTINF:-1 tvg-id="ESPNPremium.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/512px-ESPN_Premium_logo.svg.png",ESPN Premium CL
 #EXTGRP:DEPORTES
 http://190.102.246.93:9005/play/a029
-#EXTINF:0,ESPN Premium AR
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/512px-ESPN_Premium_logo.svg.png",ESPN Premium AR
 #EXTGRP:DEPORTES
 http://45.4.169.50:8000/play/a07c
-#EXTINF:0,TNT Sports Premium CL
+#EXTINF:-1 tvg-id="TNTSports.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png",TNT Sports Premium CL
 #EXTGRP:DEPORTES
 http://45.4.169.10:21233/play/a06t
-#EXTINF:0,TNT Sports CL
+#EXTINF:-1 tvg-id="TNTSports.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png",TNT Sports CL
 #EXTGRP:DEPORTES
 http://179.56.190.187:8000/play/a0tw/index.m3u8
-#EXTINF:0,TNT Sports Argentina
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png",TNT Sports Argentina
 #EXTGRP:DEPORTES
 http://143.0.67.77:8000/play/a0bc/index.m3u8
 #EXTINF:0,DirecTV Sports HD PE
@@ -56,19 +56,19 @@ https://bein-esp-xumo.amagi.tv/playlist.m3u8
 #EXTGRP:DEPORTES
 http://181.78.105.146:8800/play/a07e
 
-#EXTINF:-1 tvg-id="" tvg-logo="",Chilevisión
+#EXTINF:-1 tvg-id="ChileVision.cl" tvg-logo="https://i.imgur.com/PRijvR0.png",Chilevision
 #EXTGRP:NACIONALES
 http://45.160.12.200:9000/play/066
-#EXTINF:-1 tvg-id="" tvg-logo="",TVN
+#EXTINF:-1 tvg-id="TVN.cl" tvg-logo="https://i.imgur.com/3FKZHL4.png",TVN
 #EXTGRP:NACIONALES
 http://45.4.169.10:21233/play/a01b
-#EXTINF:-1 tvg-id="" tvg-logo="",Mega 2
+#EXTINF:-1 tvg-id="Mega2.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Mega_2_2022.svg/revision/latest?cb=20230120022851&path-prefix=es",Mega 2
 #EXTGRP:NACIONALES
 http://170.239.188.252:8000/play/a0do/index.m3u8
-#EXTINF:0,Mega
+#EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://i.imgur.com/RlZfR84.png",Mega
 #EXTGRP:NACIONALES
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-#EXTINF:0,Canal 13
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/",Canal 13
 #EXTGRP:NACIONALES
 https://marine2.miplay.cl/c13/playlist.m3u8
 #EXTINF:0,Canal 13 Internacional
