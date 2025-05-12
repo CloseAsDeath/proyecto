@@ -22,7 +22,7 @@ http://190.102.246.93:9005/play/a029
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/512px-ESPN_Premium_logo.svg.png",ESPN Premium AR
 #EXTGRP:DEPORTES
 http://190.108.80.138:8000/play/a01p/index.m3u8
-#EXTINF:-1 tvg-id="TNTSports.cl" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Premium CL
+#EXTINF:-1 tvg-id="TNTSportsPremium.cl" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Premium CL
 #EXTGRP:DEPORTES
 http://45.4.169.10:21233/play/a06t
 #EXTINF:-1 tvg-id="TNTSportsPremiun.pe" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Premiun HD (op. 2)
