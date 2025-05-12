@@ -1,61 +1,61 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="0411" tvg-name="ESPNChile.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN CL
+#EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN CL
 #EXTGRP:DEPORTES
 http://201.222.45.70:4000/play/a08h/index.m3u8
-#EXTINF:-1 tvg-id="1411" tvg-name="" tvg-name="ESPNArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN AR
+#EXTINF:-1 tvg-id="1411" tvg-name="ESPN • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN AR
 #EXTGRP:DEPORTES
 http://45.4.169.50:8000/play/a06w
-#EXTINF:-1 tvg-id="1411" tvg-name="ESPNArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN AR (Op. 2)
+#EXTINF:-1 tvg-id="1411" tvg-name="ESPN • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN AR (Op. 2)
 #EXTGRP:DEPORTES
 http://181.13.173.86:8000/play/a0af/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN2.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png",ESPN 2
+#EXTINF:-1 tvg-id="0412" tvg-name="ESPN 2 • Chile" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png",ESPN 2
 #EXTGRP:DEPORTES
 http://186.96.98.138:19000/play/a06k
-#EXTINF:-1 tvg-id="" tvg-name="ESPN2.cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png",ESPN 2 HD
+#EXTINF:-1 tvg-id="0412" tvg-name="ESPN 2 • Chile" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png",ESPN 2 HD
 #EXTGRP:DEPORTES
 http://45.4.169.50:8000/play/a06u
-#EXTINF:-1 tvg-id="" tvg-name="ESPNPremium.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/512px-ESPN_Premium_logo.svg.png",ESPN Premium CL
+#EXTINF:-1 tvg-id="0418" tvg-name="ESPN Premium • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/512px-ESPN_Premium_logo.svg.png",ESPN Premium CL
 #EXTGRP:DEPORTES
 http://190.102.246.93:9005/play/a029
-#EXTINF:-1 tvg-id="" tvg-name="ESPNPremium.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/512px-ESPN_Premium_logo.svg.png",ESPN Premium AR
+#EXTINF:-1 tvg-id="0418" tvg-name="ESPN Premium • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/512px-ESPN_Premium_logo.svg.png",ESPN Premium AR
 #EXTGRP:DEPORTES
 http://190.108.80.138:8000/play/a01p/index.m3u8
-#EXTINF:-1 tvg-id="0401" tvg-name="TNTSportsPremium.cl" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Premium CL
+#EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium • Chile" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Premium CL
 #EXTGRP:DEPORTES
 http://45.4.169.10:21233/play/a06t
-#EXTINF:-1 tvg-id="0401" tvg-name="TNTSportsPremiun.pe" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Premiun HD (op. 2)
+#EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium • Chile" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Premiun HD (op. 2)
 #EXTGRP:DEPORTES
 http://190.108.80.138:8000/play/a08f/index.m3u8
-#EXTINF:-1 tvg-id="0403" tvg-name="TNTSports.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/330px-TNT_Sports_%282023%29.svg.png",TNT Sports CL
+#EXTINF:-1 tvg-id="0403" tvg-name="TNT Sports • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/330px-TNT_Sports_%282023%29.svg.png",TNT Sports CL
 #EXTGRP:DEPORTES
 http://179.56.190.187:8000/play/a0tw/index.m3u8
-#EXTINF:-1 tvg-id="1403" tvg-name="TNTSports.ar" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Argentina
+#EXTINF:-1 tvg-id="1403" tvg-name="TNT Sports Premium • Argentina" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Argentina
 #EXTGRP:DEPORTES
 http://143.0.67.77:8000/play/a0bc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DirecTVSports.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",DirecTV Sports HD PE
+#EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",DirecTV Sports HD PE
 #EXTGRP:DEPORTES
 http://200.37.52.93:8000/play/a1ul/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TyCSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png",TyC Sports SD
+#EXTINF:-1 tvg-id="0409" tvg-name="TyC Sports • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png",TyC Sports SD
 #EXTGRP:DEPORTES
 http://170.79.235.134:8010/play/a2md/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TyCSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png",TyC Sports SD (OP. 2)
+#EXTINF:-1 tvg-id="0409" tvg-name="TyC Sports • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png",TyC Sports SD (OP. 2)
 #EXTGRP:DEPORTES
 http://181.78.208.254:8080/play/a0eg/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png",Real Madrid TV
 #EXTGRP:DEPORTES
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65f96cd34e01740008ef1c97/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="" tvg-name="AztecaDeportes.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png",Azteca Deportes
+#EXTINF:-1 tvg-id="0442" tvg-name="Azteca Deportes • México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png",Azteca Deportes
 #EXTGRP:DEPORTES
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="0406" tvg-name="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png",beIN SPORTS XTRA
+#EXTINF:-1 tvg-id="0406" tvg-name="BeIN Sports Xtra Español" tvg-logo="https://i.imgur.com/V562tpO.png",beIN SPORTS XTRA
 #EXTGRP:DEPORTES
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="0406" tvg-name="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png",beIN SPORTS XTRA (Op. 2)
+#EXTINF:-1 tvg-id="0406" tvg-name="BeIN Sports Xtra Español" tvg-logo="https://i.imgur.com/V562tpO.png",beIN SPORTS XTRA (Op. 2)
 #EXTGRP:DEPORTES
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPNDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" http-referrer="https://thetvapp.to/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",ESPN Deportes
+#EXTINF:-1 tvg-id="2418" tvg-name="ESPNDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" http-referrer="https://thetvapp.to/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",ESPN Deportes
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTGRP:DEPORTES
@@ -85,10 +85,10 @@ https://marine2.miplay.cl/c13/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="13i.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/13i_2018.png/500px-13i_2018.png",Canal 13 Internacional
 #EXTGRP:NACIONALES
 https://redirector.dps.live/hls/13intav/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="T13 en Vivo" tvg-logo="https://i.imgur.com/PktzDCH.png",T13
+#EXTINF:-1 tvg-id="0214" tvg-name="T13 en Vivo" tvg-logo="https://i.imgur.com/PktzDCH.png",T13
 #EXTGRP:NACIONALES
 https://marine2.miplay.cl/t13/playlist.m3u8
-#EXTINF:-1 tvg-id="0161" tvg-name="13Cultura.cl" tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png",13C
+#EXTINF:-1 tvg-id="0161" tvg-name="13 Cultura" tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png",13 Cultura
 #EXTGRP:NACIONALES
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-id="0158" tvg-name="13E.cl" tvg-logo="https://i.imgur.com/utI1tJV.png",13 Entretención
@@ -112,7 +112,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EnerGeek.cl" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png",EnerGeek
 #EXTGRP:NACIONALES
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EnerGeekRadio.cl" tvg-logo="https://i.imgur.com/euaoN1A.png",EnerGeek Radio
+#EXTINF:-1 tvg-id="0536" tvg-name="EnerGeekRadio.cl" tvg-logo="https://i.imgur.com/euaoN1A.png",EnerGeek Radio
 #EXTGRP:NACIONALES
 https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
 #EXTINF:-1 tvg-id="0314" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png",Fanpop TV
