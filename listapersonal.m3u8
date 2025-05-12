@@ -57,6 +57,9 @@ https://bein-esp-xumo.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTGRP:DEPORTES
 https://v1.thetvapp.to/hls/espn-deportes/index.m3u8
+#EXTINF:-1 tvg-id="FIFA+Spain.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20250415T021757SQUARE.png",FIFA+ Spain
+https://jmp2.uk/sam-ESBC2700009B4.m3u8
+#EXTGRP:DEPORTES
 #EXTINF:-1 tvg-id="FIFA+.us" tvg-logo="https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG.png",FIFA+
 #EXTGRP:DEPORTES
 https://stitcher.pluto.tv/stitch/hls/channel/66997d18a1b69e00082ee85f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=69ba6819-2f0b-11f0-8d07-92838e8cc0e6
@@ -158,7 +161,19 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:-1 tvg-id="RakutenViki.es" tvg-logo="https://i.imgur.com/pbyd1g2.png",Rakuten Viki
 #EXTGRP:CABLE
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/048a962c-e84b-4a0e-aeb3-98376f4b9953/2.m3u8?
-#EXTINF:-1 tvg-id="KpoptbyCJENM.us" tvg-logo="https://i.imgur.com/PIo3rAn.png",K-POP by CJ ENM
+#EXTINF:-1 tvg-id="AnimeVisiónSpain.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300029LP_20250326T013525SQUARE.png",Anime Visión Spain
+#EXTGRP:CABLE
+https://jmp2.uk/sam-ES300029LP.m3u8
+#EXTINF:-1 tvg-id="AnimeVisiónClassicsSpain.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000288I_20250326T013528SQUARE.png",Anime Visión Classics Spain
+#EXTGRP:CABLE
+https://jmp2.uk/sam-ES3000288I.m3u8
+#EXTINF:-1 tvg-id="AnimeAllday.us" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504502A_20241112T000554SQUARE.png",Anime All day (op. 2)
+#EXTGRP:CABLE
+https://jmp2.uk/sam-USAJ3504502A.m3u8
+#EXTINF:-1 tvg-id="NEWKPOP.us" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20250325T020236SQUARE.png",NEW KPOP (Samsung TV Plus)
+#EXTGRP:CABLE
+https://jmp2.uk/sam-USAJ3000013FJ.m3u8
+#EXTINF:-1 tvg-id="KpoptbyCJENM.us" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20241105T025339SQUARE.png",K-POP by CJ ENM
 #EXTGRP:CABLE
 https://cc-s23bl4el34qh7.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-s23bl4el34qh7/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="KContentbyCJENM.us" tvg-logo="https://i.imgur.com/lRy231d.png",K-Content by CJ ENM
@@ -291,10 +306,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bc
 #EXTINF:-1 tvg-id="VevoRetroRock.us" tvg-logo="https://i.imgur.com/H1Aap4E.png",Vevo Retro Rock
 #EXTGRP:CABLE
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="XITERock.us" tvg-logo="https://i.imgur.com/jxuwGRi.png",XITE Rock x Metal
+#EXTINF:-1 tvg-id="XITERock.us" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png",XITE Rock x Metal
 #EXTGRP:CABLE
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/623a1b5188ecdc0007c9ef5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="XITEClassicCountry.us" tvg-logo="https://i.imgur.com/jxuwGRi.png",XITE Classic Country
+#EXTINF:-1 tvg-id="XITEClassicCountry.us" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300011UT_20240716T002641SQUARE.png",XITE Classic Country
 #EXTGRP:CABLE
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/623b92a2ccefed0007b1db48/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca" tvg-logo="https://i.imgur.com/IRyFTWq.png",Qello Concerts by Stingray
