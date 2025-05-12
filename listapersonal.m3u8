@@ -67,7 +67,7 @@ https://jmp2.uk/sam-ESBC2700009B4.m3u8
 #EXTGRP:DEPORTES
 https://stitcher.pluto.tv/stitch/hls/channel/66997d18a1b69e00082ee85f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=69ba6819-2f0b-11f0-8d07-92838e8cc0e6
 
-#EXTINF:-1 tvg-id="ChileVision.cl" tvg-logo="https://i.imgur.com/PRijvR0.png",Chilevision
+#EXTINF:-1 tvg-id="Chilevisión" tvg-logo="https://i.imgur.com/PRijvR0.png",Chilevision
 #EXTGRP:NACIONALES
 http://45.160.12.200:9000/play/066
 #EXTINF:-1 tvg-id="TVN.cl" tvg-logo="https://i.imgur.com/3FKZHL4.png",TVN
@@ -85,10 +85,10 @@ https://marine2.miplay.cl/c13/playlist.m3u8
 #EXTINF:-1 tvg-id="13i.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/13i_2018.png/500px-13i_2018.png",Canal 13 Internacional
 #EXTGRP:NACIONALES
 https://redirector.dps.live/hls/13intav/playlist.m3u8
-#EXTINF:-1 tvg-id="T13.cl" tvg-logo="https://i.imgur.com/PktzDCH.png",T13
+#EXTINF:-1 tvg-id="T13 en Vivo" tvg-logo="https://i.imgur.com/PktzDCH.png",T13
 #EXTGRP:NACIONALES
 https://marine2.miplay.cl/t13/playlist.m3u8
-#EXTINF:-1 tvg-id="13C.cl" tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png",13C
+#EXTINF:-1 tvg-id="13Cultura.cl" tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png",13C
 #EXTGRP:NACIONALES
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-id="13E.cl" tvg-logo="https://i.imgur.com/utI1tJV.png",13 Entretención
@@ -106,7 +106,7 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-id="ChileChannel.cl" tvg-logo="https://i.imgur.com/F1it6fh.png",Chile Channel
 #EXTGRP:NACIONALES
 https://v2.tustreaming.cl/chilechannel/index.m3u8
-#EXTINF:-1 tvg-id="DW.de" tvg-logo="https://i.imgur.com/8MRNFb9.png",DW Español
+#EXTINF:-1 tvg-id="DW Español" tvg-logo="https://i.imgur.com/8MRNFb9.png",DW Español
 #EXTGRP:NACIONALES
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png",EnerGeek
@@ -115,7 +115,7 @@ https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
 #EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-logo="https://i.imgur.com/euaoN1A.png",EnerGeek Radio
 #EXTGRP:NACIONALES
 https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
-#EXTINF:-1 tvg-id="EnerGeekFAN.cl" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png",Fanpop TV
+#EXTINF:-1 tvg-id="EnerGeek FAN" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png",Fanpop TV
 #EXTGRP:NACIONALES
 https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 #EXTINF:-1 tvg-id="LaRed.cl" tvg-logo="https://i.imgur.com/nJOVM6e.png",La Red
@@ -249,7 +249,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:-1 tvg-id="NickenEspanol.us" tvg-logo="https://i.imgur.com/G1J4IsT.png",Nickelodeon en Español
 #EXTGRP:CABLE
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988
-#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://i.imgur.com/iODADvi.png",TVE Internacional America
+#EXTINF:-1 tvg-id="TVE 24h" tvg-logo="https://i.imgur.com/iODADvi.png",TVE Internacional America
 #EXTGRP:CABLE
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1 tvg-id="TVEStarHD.es" tvg-logo="https://i.imgur.com/zsCZHMh.png",TVE Star HD
