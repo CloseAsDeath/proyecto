@@ -70,6 +70,12 @@ https://jmp2.uk/sam-ESBC2700009B4.m3u8
 #EXTGRP:DEPORTES
 https://stitcher.pluto.tv/stitch/hls/channel/66997d18a1b69e00082ee85f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=69ba6819-2f0b-11f0-8d07-92838e8cc0e6
 
+#EXTINF:-1 tvg-id="0302" tvg-name="ETC TV" tvg-logo="http://zapallo.ddns.net:29292/logos/etc.jpg",ETC TV
+#EXTGRP:NACIONALES
+http://190.93.229.21:8000/play/a0vv
+#EXTINF:-1 tvg-id="0302" tvg-name="ETC TV" tvg-logo="http://zapallo.ddns.net:29292/logos/etc.jpg",ETC TV HD
+#EXTGRP:NACIONALES
+http://45.169.163.106:8000/play/a002
 #EXTINF:-1 tvg-id="0106" tvg-name="Chilevisión" tvg-logo="https://i.imgur.com/PRijvR0.png",Chilevision
 #EXTGRP:NACIONALES
 http://45.160.12.200:9000/play/066
