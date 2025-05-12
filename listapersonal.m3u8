@@ -103,6 +103,9 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 #EXTINF:-1 tvg-id="0164" tvg-name="13T.cl" tvg-logo="https://i.imgur.com/Agtfbfi.png",13 Teleseries
 #EXTGRP:NACIONALES
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:-1 tvg-id="0125" tvg-name="MiRadio TV" tvg-logo="http://zapallo.ddns.net:29292/logos/miradiotv.jpg",MiRadio TV
+#EXTGRP:NACIONALES
+https://tls-cl.cdnz.cl/miradio2/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ChileChannel.cl" tvg-logo="https://i.imgur.com/F1it6fh.png",Chile Channel
 #EXTGRP:NACIONALES
 https://v2.tustreaming.cl/chilechannel/index.m3u8
