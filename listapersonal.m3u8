@@ -10,10 +10,10 @@ http://45.4.169.50:8000/play/a06w
 #EXTINF:-1 tvg-id="1411" tvg-name="ESPN • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN AR (Op. 2)
 #EXTGRP:DEPORTES
 http://181.13.173.86:8000/play/a0af/index.m3u8
-#EXTINF:-1 tvg-id="0412" tvg-name="ESPN 2 • Chile" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png",ESPN 2
+#EXTINF:-1 tvg-id="2412" tvg-name="ESPN 2 • América Latina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png",ESPN 2
 #EXTGRP:DEPORTES
 http://186.96.98.138:19000/play/a06k
-#EXTINF:-1 tvg-id="0412" tvg-name="ESPN 2 • Chile" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png",ESPN 2 HD
+#EXTINF:-1 tvg-id="2412" tvg-name="ESPN 2 • América Latina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png",ESPN 2 HD
 #EXTGRP:DEPORTES
 http://45.4.169.50:8000/play/a06u
 #EXTINF:-1 tvg-id="0418" tvg-name="ESPN Premium • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/512px-ESPN_Premium_logo.svg.png",ESPN Premium CL
