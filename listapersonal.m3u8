@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Evento" tvg-logo="",Evento
-#EXTGRP:DEPORTES
-https://deportes2.slkdhfdhldeportes.com:9091/16_/tracks-v1a1/mono.m3u8?amp;remote=181.42.138.229&token=74041a36e76c7dc5119d7000dc7b9821180d3280-286885de7ce87d21cb0682c36ccb6eaf-1747349123-1747338323
 #EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN CL
 #EXTGRP:DEPORTES
 http://201.222.45.70:4000/play/a08h/index.m3u8
@@ -38,7 +35,7 @@ http://179.56.190.187:8000/play/a0tw/index.m3u8
 http://143.0.67.77:8000/play/a0bc/index.m3u8
 #EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",DirecTV Sports
 #EXTGRP:DEPORTES
-http://181.198.67.62:8000/play/a1a6
+http://200.4.254.139:8000/play/dsport/index.m3u8
 #EXTINF:-1 tvg-id="0432" tvg-name="DSports 2 • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",DirecTV Sports 2
 #EXTGRP:DEPORTES
 http://200.59.188.3:8000/play/a0xf
