@@ -59,7 +59,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="2418" tvg-name="ESPNDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png",ESPN Deportes
 #EXTGRP:DEPORTES
-http://200.115.98.26:8080/play/a044/index.m3u8
+http://200.115.98.26:9000/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FIFA+Spain.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20250415T021757SQUARE.png",FIFA+ Spain
 #EXTGRP:DEPORTES
 https://jmp2.uk/sam-ESBC2700009B4.m3u8
