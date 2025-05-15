@@ -60,11 +60,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9
 #EXTINF:-1 tvg-id="0406" tvg-name="BeIN Sports Xtra Español" tvg-logo="https://i.imgur.com/V562tpO.png",beIN SPORTS XTRA (Op. 2)
 #EXTGRP:DEPORTES
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="2418" tvg-name="ESPNDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" http-referrer="https://thetvapp.to/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",ESPN Deportes
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="2418" tvg-name="ESPNDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png",ESPN Deportes
 #EXTGRP:DEPORTES
-https://v1.thetvapp.to/hls/espn-deportes/index.m3u8
+http://200.115.98.26:8080/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FIFA+Spain.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20250415T021757SQUARE.png",FIFA+ Spain
 #EXTGRP:DEPORTES
 https://jmp2.uk/sam-ESBC2700009B4.m3u8
