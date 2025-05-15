@@ -1,20 +1,23 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN CL
+#EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN
 #EXTGRP:DEPORTES
 http://201.222.45.70:4000/play/a08h/index.m3u8
+#EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN HD
+#EXTGRP:DEPORTES
+http://45.169.163.106:8000/play/a010
 #EXTINF:-1 tvg-id="1411" tvg-name="ESPN • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN Argentina
 #EXTGRP:DEPORTES
 http://181.198.105.69:8111/play/a1dx/index.m3u8
-#EXTINF:-1 tvg-id="2411" tvg-name="ESPN • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN sur
+#EXTINF:-1 tvg-id="2411" tvg-name="ESPN • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN Sur
 #EXTGRP:DEPORTES
-http://45.4.169.50:8000/play/a06w
+http://192.141.99.87:8000/play/a0ax
 #EXTINF:-1 tvg-id="2412" tvg-name="ESPN 2 • América Latina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png",ESPN 2
 #EXTGRP:DEPORTES
-http://186.96.98.138:19000/play/a06k
+http://181.78.73.78:16002/play/a03x/index.m3u8
 #EXTINF:-1 tvg-id="2412" tvg-name="ESPN 2 • América Latina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png",ESPN 2 HD
 #EXTGRP:DEPORTES
-http://45.4.169.50:8000/play/a06u
+http://45.181.121.209:8000/play/a01o
 #EXTINF:-1 tvg-id="0412" tvg-name="ESPN 3 • Chile" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-3-ar.png",ESPN 3
 #EXTGRP:DEPORTES
 http://45.181.120.65:9087/play/056/index.m3u8
@@ -73,15 +76,15 @@ https://jmp2.uk/sam-ESBC2700009B4.m3u8
 #EXTGRP:DEPORTES
 https://stitcher.pluto.tv/stitch/hls/channel/66997d18a1b69e00082ee85f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=69ba6819-2f0b-11f0-8d07-92838e8cc0e6
 
-#EXTINF:-1 tvg-id="0302" tvg-name="ETC TV" tvg-logo="http://zapallo.ddns.net:29292/logos/etc.jpg",ETC TV
+#EXTINF:-1 tvg-id="0302" tvg-name="ETC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png",ETC TV
 #EXTGRP:NACIONALES
 http://190.93.229.21:8000/play/a0vv
-#EXTINF:-1 tvg-id="0302" tvg-name="ETC TV" tvg-logo="http://zapallo.ddns.net:29292/logos/etc.jpg",ETC TV HD
+#EXTINF:-1 tvg-id="0302" tvg-name="ETC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png",ETC TV HD
 #EXTGRP:NACIONALES
-http://45.169.163.106:8000/play/a002
+http://45.230.38.117:8000/play/a0e6
 #EXTINF:-1 tvg-id="0106" tvg-name="Chilevisión" tvg-logo="https://i.imgur.com/PRijvR0.png",Chilevision
 #EXTGRP:NACIONALES
-http://45.160.12.200:9000/play/066
+http://38.7.204.238:8011/play/a2ke/index.m3u8
 #EXTINF:-1 tvg-id="0104" tvg-name="TVN.cl" tvg-logo="https://i.imgur.com/3FKZHL4.png",TVN
 #EXTGRP:NACIONALES
 http://45.4.169.10:21233/play/a01b
