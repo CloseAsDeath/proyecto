@@ -3,19 +3,19 @@
 #EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN CL
 #EXTGRP:DEPORTES
 http://201.222.45.70:4000/play/a08h/index.m3u8
-#EXTINF:-1 tvg-id="1411" tvg-name="ESPN • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN AR
+#EXTINF:-1 tvg-id="1411" tvg-name="ESPN • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN Argentina
+#EXTGRP:DEPORTES
+http://181.198.105.69:8111/play/a1dx/index.m3u8
+#EXTINF:-1 tvg-id="2411" tvg-name="ESPN • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN sur
 #EXTGRP:DEPORTES
 http://45.4.169.50:8000/play/a06w
-#EXTINF:-1 tvg-id="1411" tvg-name="ESPN • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN AR (Op. 2)
-#EXTGRP:DEPORTES
-http://181.13.173.86:8000/play/a0af/index.m3u8
 #EXTINF:-1 tvg-id="2412" tvg-name="ESPN 2 • América Latina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png",ESPN 2
 #EXTGRP:DEPORTES
 http://186.96.98.138:19000/play/a06k
 #EXTINF:-1 tvg-id="2412" tvg-name="ESPN 2 • América Latina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png",ESPN 2 HD
 #EXTGRP:DEPORTES
 http://45.4.169.50:8000/play/a06u
-#EXTINF:-1 tvg-id="0413" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-3-ar.png",ESPN 3
+#EXTINF:-1 tvg-id="0412" tvg-name="ESPN 3 • Chile" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-3-ar.png",ESPN 3
 #EXTGRP:DEPORTES
 http://45.181.120.65:9087/play/056/index.m3u8
 #EXTINF:-1 tvg-id="0418" tvg-name="ESPN Premium • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/512px-ESPN_Premium_logo.svg.png",ESPN Premium CL
@@ -39,9 +39,12 @@ http://143.0.67.77:8000/play/a0bc/index.m3u8
 #EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",DirecTV Sports
 #EXTGRP:DEPORTES
 http://200.4.254.139:8000/play/dsport/index.m3u8
-#EXTINF:-1 tvg-id="0432" tvg-name="DSports 2 • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",DirecTV Sports 2
+#EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",DirecTV Sports (op. 2)
 #EXTGRP:DEPORTES
-http://200.59.188.3:8000/play/a0xf
+http://181.198.67.62:8000/play/a1a4
+#EXTINF:-1 tvg-id="0432" tvg-name="DSports 2 • América Latina" tvg-logo="https://i.imgur.com/HecxfZb.png",DirecTV Sports 2
+#EXTGRP:DEPORTES
+http://179.51.136.19:8000/play/a112/index.m3u8
 #EXTINF:-1 tvg-id="0409" tvg-name="TyC Sports • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png",TyC Sports SD
 #EXTGRP:DEPORTES
 http://170.79.235.134:8010/play/a2md/index.m3u8
