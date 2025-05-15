@@ -15,6 +15,9 @@ http://186.96.98.138:19000/play/a06k
 #EXTINF:-1 tvg-id="2412" tvg-name="ESPN 2 • América Latina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png",ESPN 2 HD
 #EXTGRP:DEPORTES
 http://45.4.169.50:8000/play/a06u
+#EXTINF:-1 tvg-id="0413" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-3-ar.png",ESPN 3
+#EXTGRP:DEPORTES
+http://45.181.120.65:9087/play/056/index.m3u8
 #EXTINF:-1 tvg-id="0418" tvg-name="ESPN Premium • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/512px-ESPN_Premium_logo.svg.png",ESPN Premium CL
 #EXTGRP:DEPORTES
 http://190.102.246.93:9005/play/a029
