@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Apocalyptica - Hellfest 2025
+#EXTGRP:METAL
+https://arteconcert-a.akamaihd.net/am/concert/126000/126400/126464-001-A_SQ_0_VO_10079355_MP4-2200_AMM-CONCERT-NEXT-60692279399142_2b6kWfu702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Epica - Hellfest 2025
+#EXTGRP:METAL
+https://arteconcert-a.akamaihd.net/am/concert/126000/126400/126464-044-B_SQ_0_VO_10083377_MP4-2200_AMM-CONCERT-NEXT-60692280351703_2bAANfyIkP.mp4
 #EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN
 #EXTGRP:DEPORTES
 http://201.222.45.70:4000/play/a08h/index.m3u8
@@ -79,6 +85,9 @@ http://190.93.229.21:8000/play/a0vv
 #EXTINF:-1 tvg-id="0302" tvg-name="ETC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png",ETC TV HD
 #EXTGRP:NACIONALES
 http://45.230.38.117:8000/play/a0e6
+#EXTINF:-1 tvg-id="0106" tvg-name="Chilevisión" tvg-logo="https://i.imgur.com/PRijvR0.png",Chilevision (nl)
+#EXTGRP:NACIONALES
+https://normielista.stream/play/TD87bQiVYgC9iRIuW9UTK6c--MyeYP52NUM8Lbsu_D8T3osBMtH4JyUW1kiEmk9e/m3u8
 #EXTINF:-1 tvg-id="0106" tvg-name="Chilevisión" tvg-logo="https://i.imgur.com/PRijvR0.png",Chilevision
 #EXTGRP:NACIONALES
 http://38.7.204.238:8011/play/a2ke/index.m3u8
