@@ -183,6 +183,9 @@ http://45.235.37.254/historyhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ElGourmet.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/el-gourmet-ar.png",El Gourmet
 #EXTGRP:CABLE
 http://38.246.74.7:8000/play/a02u/index.m3u8
+#EXTINF:-1 tvg-id="0608" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/food-network-ar.png",Food Network
+#EXTGRP:CABLE
+http://45.235.37.254/foodnetwork/index.m3u8
 #EXTINF:-1 tvg-id="0706" tvg-name="HistoryLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png",History
 #EXTGRP:CABLE
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY/index.m3u8
