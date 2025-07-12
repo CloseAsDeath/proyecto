@@ -95,8 +95,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/66997d18a1b69e00082ee85f/master.m3u
 
 #EXTINF:-1 tvg-id="0302" tvg-name="ETC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png",ETC TV
 #EXTGRP:NACIONALES
-http://190.93.229.21:8000/play/a0vv
-#EXTINF:-1 tvg-id="0302" tvg-name="ETC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png",ETC TV HD
+http://45.235.37.254/etctv/index.m3u8
+#EXTINF:-1 tvg-id="0302" tvg-name="ETC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png",ETC TV
 #EXTGRP:NACIONALES
 http://45.230.38.117:8000/play/a0e6
 #EXTINF:-1 tvg-id="0106" tvg-name="Chilevisión" tvg-logo="https://i.imgur.com/PRijvR0.png",Chilevision (nl)
@@ -119,7 +119,7 @@ http://45.4.169.10:21233/play/a02c
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="0107" tvg-name="Canal13.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Logo_Canal_13_2025.svg/1024px-Logo_Canal_13_2025.svg.png",Canal 13
 #EXTGRP:NACIONALES
-http://138.36.253.13:8008/play/a00q/index.m3u8
+http://45.235.37.254/canal13hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="13i.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/13i_2018.png/500px-13i_2018.png",Canal 13 Internacional
 #EXTGRP:NACIONALES
 https://redirector.dps.live/hls/13intav/playlist.m3u8
