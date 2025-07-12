@@ -1,5 +1,21 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN 1080p
+#EXTGRP:Temporales
+http://45.235.37.254/espnhd/index.m3u8
+#EXTINF:-1 tvg-id="2412" tvg-name="ESPN 2 • América Latina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png",ESPN 2 720p
+#EXTGRP:Temporales
+http://45.235.37.254/espn2hd/index.m3u8
+#EXTINF:-1 tvg-id="0412" tvg-name="ESPN 3 • Chile" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-3-ar.png",ESPN 3 720p
+#EXTGRP:Temporales
+http://45.235.37.254/espn3hd/index.m3u8
+#EXTINF:-1 tvg-id="0418" tvg-name="ESPN Premium • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/512px-ESPN_Premium_logo.svg.png",ESPN Premium 1080p
+#EXTGRP:Temporales
+http://45.235.37.254/espnpremiumhd/index.m3u8
+#EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium • Chile" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Premium 1080p
+#EXTGRP:Temporales
+http://45.235.37.254/tntsportshd/index.m3u8
+
 #EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN
 #EXTGRP:DEPORTES
 http://201.222.45.70:4000/play/a08h/index.m3u8
@@ -51,6 +67,10 @@ http://170.79.235.134:8010/play/a2md/index.m3u8
 #EXTINF:-1 tvg-id="0409" tvg-name="TyC Sports • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png",TyC Sports SD (OP. 2)
 #EXTGRP:DEPORTES
 http://181.78.208.254:8080/play/a0eg/index.m3u8
+#EXTINF:-1 tvg-id="0409" tvg-name="TyC Sports • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png",TyC Sports
+#EXTGRP:DEPORTES
+http://170.79.235.134:8010/play/a2md/index.m3u8
+http://45.235.37.254/tyc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png",Real Madrid TV
 #EXTGRP:DEPORTES
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65f96cd34e01740008ef1c97/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -88,15 +108,18 @@ http://38.7.204.238:8011/play/a2ke/index.m3u8
 #EXTINF:-1 tvg-id="0104" tvg-name="TVN.cl" tvg-logo="https://i.imgur.com/3FKZHL4.png",TVN
 #EXTGRP:NACIONALES
 http://45.4.169.10:21233/play/a01b
+#EXTINF:-1 tvg-id="0117" tvg-logo="https://i.imgur.com/9LEiQPJ.png",TVN3
+#EXTGRP:NACIONALES
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1 tvg-id="0109" tvg-name="Mega2.cl" tvg-logo="https://cdn-w.tvdaldia.cl/epg/logos/mega2.png",Mega 2
 #EXTGRP:NACIONALES
-http://170.239.188.252:8000/play/a0do/index.m3u8
+http://45.4.169.10:21233/play/a02c
 #EXTINF:-1 tvg-id="0105" tvg-name="Mega.cl" tvg-logo="https://i.imgur.com/RlZfR84.png",Mega
 #EXTGRP:NACIONALES
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="0107" tvg-name="Canal13.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Logo_Canal_13_2025.svg/1024px-Logo_Canal_13_2025.svg.png",Canal 13
 #EXTGRP:NACIONALES
-https://marine2.miplay.cl/c13/playlist.m3u8
+http://138.36.253.13:8008/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="13i.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/13i_2018.png/500px-13i_2018.png",Canal 13 Internacional
 #EXTGRP:NACIONALES
 https://redirector.dps.live/hls/13intav/playlist.m3u8
@@ -148,28 +171,46 @@ https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVChile.cl" tvg-logo="https://i.imgur.com/oYFto0V.png",TV Chile
 #EXTGRP:NACIONALES
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVPlus.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/512px-TV%2B_%282018%29.png",TV+
-#EXTGRP:NACIONALES
-https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UCVTV.cl" tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png",UCV TV
 #EXTGRP:NACIONALES
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HistoryHD.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/history-channel-ar.png",History HD
+#EXTINF:-1 tvg-id="0801" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/star-channel-ar.png",Star Channel
 #EXTGRP:CABLE
-http://38.246.74.7:8000/play/a01l/index.m3u8
+http://45.235.37.254/starhd/index.m3u8
+#EXTINF:-1 tvg-id="0706" tvg-name="HistoryHD.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/history-channel-ar.png",History HD
+#EXTGRP:CABLE
+http://45.235.37.254/historyhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ElGourmet.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/el-gourmet-ar.png",El Gourmet
 #EXTGRP:CABLE
 http://38.246.74.7:8000/play/a02u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HistoryLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png",History
+#EXTINF:-1 tvg-id="0706" tvg-name="HistoryLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png",History
 #EXTGRP:CABLE
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="History2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png",History 2 Latin America
+#EXTINF:-1 tvg-id="0707" tvg-name="History2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png",History 2 Latin America
 #EXTGRP:CABLE
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CartoonNetworkLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
+http://45.235.37.254/history2hd/index.m3u8
+#EXTINF:-1 tvg-id="1701" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/discovery-channel-ar.png",DISCOVERY
+#EXTGRP:CABLE
+http://45.235.37.254/discoveryhd/index.m3u8
+#EXTINF:-1 tvg-id="0702" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/national-geographic-ar.png",NATGEO
+#EXTGRP:CABLE
+http://45.235.37.254/natgeohd/index.m3u8
+#EXTINF:-1 tvg-id="0705" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/animal-planet-ar.png",ANIMAL PLANET
+#EXTGRP:CABLE
+http://45.235.37.254/animalplanethd/index.m3u8
+#EXTINF:-1 tvg-id="1604" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/InvestigationDiscovery.png",ID
+#EXTGRP:CABLE
+http://45.235.37.254/idhd/index.m3u8
+#EXTINF:-1 tvg-id="1305" tvg-name="CartoonNetworkLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 #EXTGRP:CABLE
 http://181.78.208.106:9000/play/a007
+#EXTINF:-1 tvg-id="1305" tvg-name="CartoonNetworkLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",Cartoon Network (op. 2)
+#EXTGRP:CABLE
+http://45.235.37.254/cartoonnetworkhd/index.m3u8
+#EXTINF:-1 tvg-id="0308" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/tooncast-ar.png",TOONCAST
+#EXTGRP:CABLE
+http://45.235.37.254/tooncast/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HunterxHunter.us" tvg-logo="https://images.pluto.tv/channels/65d916a2f7f0af0008b6540d/colorLogoPNG.png",Hunter x Hunter
 #EXTGRP:CABLE
 https://stitcher.pluto.tv/stitch/hls/channel/65d916a2f7f0af0008b6540d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=69ba6819-2f0b-11f0-8d07-92838e8cc0e6
