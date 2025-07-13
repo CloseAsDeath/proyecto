@@ -226,8 +226,8 @@ http://45.235.37.254/aehd/index.m3u8
 #EXTGRP:CABLE
 http://45.235.37.254/amchd/index.m3u8
 #EXTINF:-1 tvg-id="1847" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/axn-ar.png",AXN
-http://45.235.37.254/axnhd/index.m3u8
 #EXTGRP:CABLE
+http://45.235.37.254/axnhd/index.m3u8
 #EXTINF:-1 tvg-id="0802" tvg-name="" tvg-logo="https://i.imgur.com/1CTpymq.png",DHE
 #EXTGRP:CABLE
 http://45.235.37.254/dhehd/index.m3u8
