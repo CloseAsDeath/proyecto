@@ -92,6 +92,12 @@ https://jmp2.uk/sam-ESBC2700009B4.m3u8
 #EXTGRP:DEPORTES
 https://stitcher.pluto.tv/stitch/hls/channel/66997d18a1b69e00082ee85f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=69ba6819-2f0b-11f0-8d07-92838e8cc0e6
 
+#EXTINF:-1 tvg-id="" tvg-name="Wacken TV 1" tvg-logo="",Wacken TV 1
+#EXTGRP:NACIONALES
+https://streaming.magentamusik.de/hls/live/573870/magentamusik1/magentamusik1_1/magentamusik1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wacken TV 2" tvg-logo="",Wacken TV 2
+#EXTGRP:NACIONALES
+https://streaming.magentamusik.de/hls/live/573871/magentamusik2/magentamusik2_1/magentamusik2.m3u8
 #EXTINF:-1 tvg-id="0302" tvg-name="ETC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png",ETC TV HD
 #EXTGRP:NACIONALES
 http://45.235.37.254/etctv/index.m3u8
