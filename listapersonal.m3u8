@@ -1,5 +1,27 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="0411" tvg-name="" tvg-logo="",THE HALO EFFECT SUMMER BREEZE 2025
+#EXTGRP:METAL VODS
+https://arteconcert-a.akamaihd.net/am/concert/123000/123300/123351-007-A_SQ_0_VO_10265804_MP4-2200_AMM-CONCERT-NEXT-60692475376756_2dki1tAbJZ.mp4
+#EXTINF:-1 tvg-id="0411" tvg-name="" tvg-logo="",OBITUARY SUMMER BREEZE 2025
+#EXTGRP:METAL VODS
+https://arteconcert-a.akamaihd.net/am/concert/123000/123300/123351-030-A_SQ_0_VO_10266846_MP4-2200_AMM-CONCERT-NEXT-60692476387045_2dm58tEhva.mp4
+#EXTINF:-1 tvg-id="0411" tvg-name="" tvg-logo="",RIVERS OF NIHIL SUMMER BREEZE 2025
+#EXTGRP:METAL VODS
+https://arteconcert-a.akamaihd.net/am/concert/123000/123300/123351-022-A_SQ_0_VO_10265958_MP4-2200_AMM-CONCERT-NEXT-60692475378047_2dkpStDrk6.mp4
+#EXTINF:-1 tvg-id="0411" tvg-name="" tvg-logo="",WARMEN SUMMER BREEZE 2025
+#EXTGRP:METAL VODS
+https://arteconcert-a.akamaihd.net/am/concert/123000/123300/123351-024-A_SQ_0_VO_10266625_MP4-2200_AMM-CONCERT-NEXT-60692475378329_2dlshtEaYh.mp4
+#EXTINF:-1 tvg-id="0411" tvg-name="" tvg-logo="",ELVENKING SUMMER BREEZE 2025
+#EXTGRP:METAL VODS
+https://arteconcert-a.akamaihd.net/am/concert/123000/123300/123351-013-A_SQ_0_VO_10265913_MP4-2200_AMM-CONCERT-NEXT-60692475377358_2dknUtDqvg.mp4
+#EXTINF:-1 tvg-id="0411" tvg-name="" tvg-logo="",WIND ROSE SUMMER BREEZE 2025
+#EXTGRP:METAL VODS
+https://arteconcert-a.akamaihd.net/am/concert/123000/123300/123351-035-A_SQ_0_VO_10266991_MP4-2200_AMM-CONCERT-NEXT-60692476431525_2dmLOtI4PM.mp4
+#EXTINF:-1 tvg-id="0411" tvg-name="" tvg-logo="",HANABIE SUMMER BREEZE 2025
+#EXTGRP:METAL VODS
+https://arteconcert-a.akamaihd.net/am/concert/123000/123300/123351-016-A_SQ_0_VO_10265947_MP4-2200_AMM-CONCERT-NEXT-60692475377622_2dkoDtDrBq.mp4
+
 #EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN
 #EXTGRP:DEPORTES
 http://201.222.45.70:4000/play/a08h/index.m3u8
