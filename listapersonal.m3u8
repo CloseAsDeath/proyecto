@@ -21,6 +21,9 @@ https://arteconcert-a.akamaihd.net/am/concert/123000/123300/123351-035-A_SQ_0_VO
 #EXTINF:-1 tvg-id="0411" tvg-name="" tvg-logo="",HANABIE SUMMER BREEZE 2025
 #EXTGRP:METAL VODS
 https://arteconcert-a.akamaihd.net/am/concert/123000/123300/123351-016-A_SQ_0_VO_10265947_MP4-2200_AMM-CONCERT-NEXT-60692475377622_2dkoDtDrBq.mp4
+#EXTINF:-1 tvg-id="0411" tvg-name="" tvg-logo="",OBITUARY WACKEN 2025
+#EXTGRP:METAL VODS
+https://streaming.magentamusik.de/vod/WW/WOA2025_Obituary/hd/9000/index.m3u8
 
 #EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN
 #EXTGRP:DEPORTES
