@@ -42,10 +42,10 @@ http://181.209.95.26:8000/play/a0ab/index.m3u8
 http://192.141.99.87:8000/play/a0ax
 #EXTINF:-1 tvg-id="2412" tvg-name="ESPN 2 • América Latina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png",ESPN 2
 #EXTGRP:DEPORTES
-http://181.78.73.78:16002/play/a03x/index.m3u8
+http://209.45.91.205:8000/play/a0cb/index.m3u8
 #EXTINF:-1 tvg-id="2412" tvg-name="ESPN 2 • América Latina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png",ESPN 2 HD
 #EXTGRP:DEPORTES
-http://45.181.121.209:8000/play/a01o
+http://38.253.80.200:8000/play/a097/index.m3u8
 #EXTINF:-1 tvg-id="0412" tvg-name="ESPN 3 • Chile" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-3-ar.png",ESPN 3
 #EXTGRP:DEPORTES
 http://45.181.120.65:9087/play/056/index.m3u8
