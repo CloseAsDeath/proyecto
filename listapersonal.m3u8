@@ -54,7 +54,7 @@ http://45.181.120.65:9087/play/056/index.m3u8
 http://181.209.194.14:8000/play/a05x/index.m3u8
 #EXTINF:-1 tvg-id="0418" tvg-name="ESPN Premium • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/512px-ESPN_Premium_logo.svg.png",ESPN Premium
 #EXTGRP:DEPORTES
-http://45.181.121.209:8000/play/a01s/index.m3u8
+http://38.7.195.44:8000/play/a0n1
 #EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium • Chile" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Premium CL
 #EXTGRP:DEPORTES
 http://45.181.120.158:9800/play/110/index.m3u8
@@ -76,15 +76,9 @@ http://157.100.9.51:8000/play/a1a3
 #EXTINF:-1 tvg-id="0432" tvg-name="DSports 2 • América Latina" tvg-logo="https://i.imgur.com/HecxfZb.png",DirecTV Sports 2
 #EXTGRP:DEPORTES
 http://179.51.136.19:8000/play/a112/index.m3u8
-#EXTINF:-1 tvg-id="0409" tvg-name="TyC Sports • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png",TyC Sports SD
-#EXTGRP:DEPORTES
-http://170.79.235.134:8010/play/a2md/index.m3u8
-#EXTINF:-1 tvg-id="0409" tvg-name="TyC Sports • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png",TyC Sports SD (OP. 2)
-#EXTGRP:DEPORTES
-http://181.78.208.254:8080/play/a0eg/index.m3u8
 #EXTINF:-1 tvg-id="0409" tvg-name="TyC Sports • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png",TyC Sports
 #EXTGRP:DEPORTES
-http://45.235.37.254/tyc/index.m3u8
+http://170.79.235.134:8010/play/a2md/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png",Real Madrid TV
 #EXTGRP:DEPORTES
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65f96cd34e01740008ef1c97/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
