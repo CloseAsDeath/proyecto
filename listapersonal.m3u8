@@ -79,6 +79,9 @@ http://157.100.9.51:8000/play/a1a3
 #EXTINF:-1 tvg-id="0432" tvg-name="DSports 2 • América Latina" tvg-logo="https://i.imgur.com/HecxfZb.png",DirecTV Sports 2
 #EXTGRP:DEPORTES
 http://179.51.136.19:8000/play/a112/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports LaLiga" tvg-logo="https://i.imgur.com/cnRlKeF.png",Sky Sports LaLiga
+#EXTGRP:DEPORTES
+http://45.164.151.197:8000/play/sky/index.m3u8
 #EXTINF:-1 tvg-id="0409" tvg-name="TyC Sports • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png",TyC Sports
 #EXTGRP:DEPORTES
 http://170.79.235.134:8010/play/a2md/index.m3u8
