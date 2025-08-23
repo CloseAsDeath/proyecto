@@ -55,15 +55,12 @@ http://181.209.194.14:8000/play/a05x/index.m3u8
 #EXTINF:-1 tvg-id="0418" tvg-name="ESPN Premium • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/512px-ESPN_Premium_logo.svg.png",ESPN Premium
 #EXTGRP:DEPORTES
 http://38.7.195.44:8000/play/a0n1
-#EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium • Chile" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Premium CL
-#EXTGRP:DEPORTES
-http://45.181.120.158:9800/play/110/index.m3u8
 #EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium • Chile" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Premium CL HD
 #EXTGRP:DEPORTES
 http://45.232.176.29:8000/play/a01i
-#EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium • Chile" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Premiun SD
+#EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium • Chile" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Premiun (daddylive)
 #EXTGRP:DEPORTES
-http://216.155.91.47:8000/play/a0jf/index.m3u8
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MjE4YTA1NjdjZDk5LTFhMzgtZWQwNC03NzNjLTgyMzM2N2Q2/master.m3u8?md5=k75-tosErKt7DF6Oa3Tsow&expires=1755952656&t=1755909456
 #EXTINF:-1 tvg-id="0403" tvg-name="TNT Sports • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/330px-TNT_Sports_%282023%29.svg.png",TNT Sports CL
 #EXTGRP:DEPORTES
 http://179.56.190.187:8000/play/a0tw/index.m3u8
