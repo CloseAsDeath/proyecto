@@ -49,6 +49,9 @@ http://38.253.80.200:8000/play/a097/index.m3u8
 #EXTINF:-1 tvg-id="0412" tvg-name="ESPN 3 • Chile" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-3-ar.png",ESPN 3
 #EXTGRP:DEPORTES
 http://45.181.120.65:9087/play/056/index.m3u8
+#EXTINF:-1 tvg-id="0412" tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-4-lam.png",ESPN 4
+#EXTGRP:DEPORTES
+192.141.99.87:8000/play/a0ae
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-5-lam.png",ESPN 5 Centroamerica
 #EXTGRP:DEPORTES
 http://181.209.194.14:8000/play/a05x/index.m3u8
@@ -58,9 +61,9 @@ http://38.7.195.44:8000/play/a0n1
 #EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium • Chile" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Premium CL HD
 #EXTGRP:DEPORTES
 http://45.232.176.29:8000/play/a01i
-#EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium • Chile" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Premiun (daddylive)
+#EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium • Chile" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Premiun (op 2)
 #EXTGRP:DEPORTES
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MjE4YTA1NjdjZDk5LTFhMzgtZWQwNC03NzNjLTgyMzM2N2Q2/master.m3u8?md5=k75-tosErKt7DF6Oa3Tsow&expires=1755952656&t=1755909456
+192.141.99.87:8000/play/a0as
 #EXTINF:-1 tvg-id="0403" tvg-name="TNT Sports • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/330px-TNT_Sports_%282023%29.svg.png",TNT Sports CL
 #EXTGRP:DEPORTES
 http://179.56.190.187:8000/play/a0tw/index.m3u8
@@ -104,15 +107,9 @@ https://jmp2.uk/sam-ESBC2700009B4.m3u8
 #EXTGRP:DEPORTES
 https://stitcher.pluto.tv/stitch/hls/channel/66997d18a1b69e00082ee85f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=69ba6819-2f0b-11f0-8d07-92838e8cc0e6
 
-#EXTINF:-1 tvg-id="" tvg-name="Wacken TV 1" tvg-logo="",Wacken TV 1
-#EXTGRP:NACIONALES
-https://streaming.magentamusik.de/hls/live/573870/magentamusik1/magentamusik1_1/magentamusik1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Wacken TV 2" tvg-logo="",Wacken TV 2
-#EXTGRP:NACIONALES
-https://streaming.magentamusik.de/hls/live/573871/magentamusik2/magentamusik2_1/magentamusik2.m3u8
 #EXTINF:-1 tvg-id="0302" tvg-name="ETC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png",ETC TV HD
 #EXTGRP:NACIONALES
-http://45.235.37.254/etctv/index.m3u8
+192.141.99.87:8000/play/a0qs
 #EXTINF:-1 tvg-id="0302" tvg-name="ETC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png",ETC TV 
 #EXTGRP:NACIONALES
 http://190.93.229.21:8000/play/a0vv
@@ -194,25 +191,25 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 http://45.235.37.254/starhd/index.m3u8
 #EXTINF:-1 tvg-id="0706" tvg-name="HistoryHD.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/history-channel-ar.png",History HD
 #EXTGRP:CABLE
-http://45.235.37.254/historyhd/index.m3u8
+192.141.99.87:8000/play/a0jy
 #EXTINF:-1 tvg-id="" tvg-name="ElGourmet.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/el-gourmet-ar.png",El Gourmet
 #EXTGRP:CABLE
-http://138.59.227.28:8000/play/a06w/index.m3u8
+192.141.99.87:8000/play/a0jz
 #EXTINF:-1 tvg-id="0608" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/food-network-ar.png",Food Network
 #EXTGRP:CABLE
 http://45.235.37.254/foodnetwork/index.m3u8
 #EXTINF:-1 tvg-id="0706" tvg-name="HistoryLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png",History
 #EXTGRP:CABLE
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY/index.m3u8
-#EXTINF:-1 tvg-id="0707" tvg-name="History2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png",History 2 Latin America
+#EXTINF:-1 tvg-id="0707" tvg-name="History2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png",History 2
 #EXTGRP:CABLE
-http://45.235.37.254/history2hd/index.m3u8
+192.141.99.87:8000/play/a0eb
 #EXTINF:-1 tvg-id="1701" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/discovery-channel-ar.png",DISCOVERY
 #EXTGRP:CABLE
 http://45.235.37.254/discoveryhd/index.m3u8
 #EXTINF:-1 tvg-id="0702" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/national-geographic-ar.png",NATGEO
 #EXTGRP:CABLE
-http://45.235.37.254/natgeohd/index.m3u8
+192.141.99.87:8000/play/a0jx
 #EXTINF:-1 tvg-id="0705" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/animal-planet-ar.png",ANIMAL PLANET
 #EXTGRP:CABLE
 http://45.235.37.254/animalplanethd/index.m3u8
