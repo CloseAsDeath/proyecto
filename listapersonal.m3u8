@@ -100,7 +100,7 @@ https://bein-esp-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="2418" tvg-name="ESPNDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png",ESPN Deportes
 #EXTGRP:DEPORTES
 http://190.97.183.98:8000/play/a06l
-#EXTINF:-1 tvg-id="2418" tvg-name="FOXDeportes.us" tvg-logo="",FOX Deportes
+#EXTINF:-1 tvg-id="2418" tvg-name="FOXDeportes.us" tvg-logo="https://i.imgur.com/IUd3jrC.png",FOX Deportes
 #EXTGRP:DEPORTES
 http://131.161.83.249:8031/play/a02d
 #EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="Sports",CBS Sports Golazo Network
