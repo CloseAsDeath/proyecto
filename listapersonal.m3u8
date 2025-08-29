@@ -85,7 +85,7 @@ http://45.164.151.197:8000/play/sky/index.m3u8
 #EXTINF:-1 tvg-id="0409" tvg-name="TyC Sports • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png",TyC Sports SD
 #EXTGRP:DEPORTES
 http://205.235.6.29:8000/play/a0oc/index.m3u8
-#EXTINF:-1 tvg-id="0409" tvg-name="TyC Sports • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png",TyC Sports 2
+#EXTINF:-1 tvg-id="0409" tvg-name="TyC Sports • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png",TyC Sports HD
 #EXTGRP:DEPORTES
 http://179.63.6.17:9000/play/a07y
 #EXTINF:-1 tvg-id="" tvg-name="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png",Real Madrid TV
@@ -96,17 +96,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65f96cd34
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="0406" tvg-name="BeIN Sports Xtra Español" tvg-logo="https://i.imgur.com/V562tpO.png",beIN SPORTS XTRA
 #EXTGRP:DEPORTES
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="0406" tvg-name="BeIN Sports Xtra Español" tvg-logo="https://i.imgur.com/V562tpO.png",beIN SPORTS XTRA (Op. 2)
-#EXTGRP:DEPORTES
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="2418" tvg-name="ESPNDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png",ESPN Deportes
 #EXTGRP:DEPORTES
-http://200.115.98.26:9000/play/a044/index.m3u8
-#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="Sports",CBS Sports Golazo Network
+http://190.97.183.98:8000/play/a06l
+#EXTINF:-1 tvg-id="2418" tvg-name="FOXDeportes.us" tvg-logo="",FOX Deportes
 #EXTGRP:DEPORTES
-https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
-#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="Sports",CBS Sports Golazo Network 2
+http://131.161.83.249:8031/play/a02d
+#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="Sports",CBS Sports Golazo Network
 #EXTGRP:DEPORTES
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e4845f0b-8107-11f0-9a74-4e73f98cfba2
 #EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="Sports",CBS Sports Network USA
