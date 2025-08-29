@@ -85,6 +85,9 @@ http://45.164.151.197:8000/play/sky/index.m3u8
 #EXTINF:-1 tvg-id="0409" tvg-name="TyC Sports • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png",TyC Sports
 #EXTGRP:DEPORTES
 http://170.79.235.134:8010/play/a2md/index.m3u8
+#EXTINF:-1 tvg-id="0409" tvg-name="TyC Sports • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png",TyC Sports 2
+#EXTGRP:DEPORTES
+http://179.63.6.17:9000/play/a07y
 #EXTINF:-1 tvg-id="" tvg-name="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png",Real Madrid TV
 #EXTGRP:DEPORTES
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65f96cd34e01740008ef1c97/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
