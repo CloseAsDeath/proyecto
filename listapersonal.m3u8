@@ -40,6 +40,9 @@ http://181.209.95.26:8000/play/a0ab/index.m3u8
 #EXTINF:-1 tvg-id="2411" tvg-name="ESPN • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN Sur
 #EXTGRP:DEPORTES
 http://http://192.141.99.87:8000/play/a0ax
+#EXTINF:-1 tvg-id="2411" tvg-name="ESPN • Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN Brasil
+#EXTGRP:DEPORTES
+http://131.161.83.249:8031/play/a05y
 #EXTINF:-1 tvg-id="2412" tvg-name="ESPN 2 • América Latina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png",ESPN 2
 #EXTGRP:DEPORTES
 http://209.45.91.205:8000/play/a0cb/index.m3u8
@@ -344,7 +347,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/66c79221b1a34600087e264d/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/6202ab549654c800076ee13f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=69ba6819-2f0b-11f0-8d07-92838e8cc0e6
 #EXTINF:-1 tvg-id="" tvg-name="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png",LA1
 #EXTGRP:CABLE
-https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
+http://45.14.248.42:6001/play/La1HD
 #EXTINF:-1 tvg-id="" tvg-name="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png",LA2
 #EXTGRP:CABLE
 http://185.189.225.150:85/La2HD/index.m3u8
