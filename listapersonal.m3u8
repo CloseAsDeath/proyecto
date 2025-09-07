@@ -103,6 +103,9 @@ https://bein-esp-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="2418" tvg-name="ESPNDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png",ESPN Deportes
 #EXTGRP:DEPORTES
 http://190.97.183.98:8000/play/a06l
+#EXTINF:-1 tvg-id="2418" tvg-name="WinSportplus.co" tvg-logo="",Win Sports+
+#EXTGRP:DEPORTES
+http://181.205.130.194:4000/play/a0f1
 #EXTINF:-1 tvg-id="2418" tvg-name="TelemundoHD.us" tvg-logo="",Telemundo HD
 #EXTGRP:DEPORTES
 http://38.199.4.160:93/play/a01b
