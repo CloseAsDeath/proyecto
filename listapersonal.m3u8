@@ -73,6 +73,9 @@ http://179.56.190.187:8000/play/a0tw/index.m3u8
 #EXTINF:-1 tvg-id="1403" tvg-name="TNT Sports Premium • Argentina" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Argentina
 #EXTGRP:DEPORTES
 http://143.0.67.77:8000/play/a0bc/index.m3u8
+#EXTINF:-1,TNT MX
+#EXTGRP:DEPORTES
+http://45.172.92.111:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",DirecTV Sports
 #EXTGRP:DEPORTES
 http://201.230.121.85:8000/play/a0yv/index.m3u8
