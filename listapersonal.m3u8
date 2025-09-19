@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="TNTSports" tvg-name="TNT Sports" tvg-logo="" group-title="Deportes",TNT Sports AR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTVLCOPT:http-referrer=https://sensa.com.ar/
+#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50bnRzcG9ydHMuY29tLw==:Expires=1702818302:KeyName=tsports-ed25519-01:Signature=ptxd7U8tSHlX6U4ImF-KojFqVq31ELgjeYl9rajJt_huoHfV86T9vLC0A79xPKbPa2fElmPe761MJW0fXEIMCw
+https://csc-axs-edge01.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
+
 #EXTINF:-1 tvg-id="0411" tvg-name="" tvg-logo="",THE HALO EFFECT SUMMER BREEZE 2025
 #EXTGRP:METAL VODS
 https://arteconcert-a.akamaihd.net/am/concert/123000/123300/123351-007-A_SQ_0_VO_10265804_MP4-2200_AMM-CONCERT-NEXT-60692475376756_2dki1tAbJZ.mp4
@@ -48,7 +54,10 @@ http://131.161.83.249:8031/play/a05y
 http://209.45.91.205:8000/play/a0cb/index.m3u8
 #EXTINF:-1 tvg-id="2412" tvg-name="ESPN 2 • América Latina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png",ESPN 2 HD
 #EXTGRP:DEPORTES
-http://38.253.80.200:8000/play/a097/index.m3u8
+http://38.41.8.1:8000/play/a07q
+#EXTINF:-1,ESPN 2 MX
+#EXTGRP:DEPORTES
+http://45.172.92.111:8000/play/a01d/index.m3u8
 #EXTINF:-1 tvg-id="0412" tvg-name="ESPN 3 • Chile" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-3-ar.png",ESPN 3
 #EXTGRP:DEPORTES
 http://45.181.120.65:9087/play/056/index.m3u8
@@ -76,6 +85,9 @@ http://143.0.67.77:8000/play/a0bc/index.m3u8
 #EXTINF:-1,TNT MX
 #EXTGRP:DEPORTES
 http://45.172.92.111:8000/play/a017/index.m3u8
+#EXTINF:-1,SporTV HD
+#EXTGRP:DEPORTES
+http://200.4.96.59:8825/play/a097/index.m3u8
 #EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",DirecTV Sports
 #EXTGRP:DEPORTES
 http://201.230.121.85:8000/play/a0yv/index.m3u8
