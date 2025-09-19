@@ -1,9 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="TNTSports" tvg-name="TNT Sports" tvg-logo="" group-title="Deportes",TNT Sports AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-#EXTVLCOPT:http-referrer=https://sensa.com.ar/
-#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50bnRzcG9ydHMuY29tLw==:Expires=1702818302:KeyName=tsports-ed25519-01:Signature=ptxd7U8tSHlX6U4ImF-KojFqVq31ELgjeYl9rajJt_huoHfV86T9vLC0A79xPKbPa2fElmPe761MJW0fXEIMCw
 https://csc-axs-edge01.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
 
 #EXTINF:-1 tvg-id="0411" tvg-name="" tvg-logo="",THE HALO EFFECT SUMMER BREEZE 2025
