@@ -99,7 +99,7 @@ http://179.51.136.19:8000/play/a112/index.m3u8
 http://45.164.151.197:8000/play/sky/index.m3u8
 #EXTINF:-1 tvg-id="0409" tvg-name="TyC Sports • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png",TyC Sports SD
 #EXTGRP:DEPORTES
-http://205.235.6.29:8000/play/a0oc/index.m3u8
+http://45.232.176.29:8000/play/a02t
 #EXTINF:-1 tvg-id="0409" tvg-name="TyC Sports • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png",TyC Sports HD
 #EXTGRP:DEPORTES
 http://179.63.6.17:9000/play/a07y
