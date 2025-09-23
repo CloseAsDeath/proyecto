@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TNTSports" tvg-name="TNT Sports" tvg-logo="" group-title="Deportes",TNT Sports AR
-https://csc-axs-edge01.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
-
 #EXTINF:-1 tvg-id="0411" tvg-name="" tvg-logo="",THE HALO EFFECT SUMMER BREEZE 2025
 #EXTGRP:METAL VODS
 https://arteconcert-a.akamaihd.net/am/concert/123000/123300/123351-007-A_SQ_0_VO_10265804_MP4-2200_AMM-CONCERT-NEXT-60692475376756_2dki1tAbJZ.mp4
@@ -81,7 +78,7 @@ http://192.141.99.87:8000/play/a0as
 http://179.56.190.187:8000/play/a0tw/index.m3u8
 #EXTINF:-1 tvg-id="1403" tvg-name="TNT Sports Premium • Argentina" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Argentina
 #EXTGRP:DEPORTES
-http://143.0.67.77:8000/play/a0bc/index.m3u8
+http://45.5.151.251:8000/play/a00p/index.m3u8
 #EXTINF:-1,TNT MX
 #EXTGRP:DEPORTES
 http://45.172.92.111:8000/play/a017/index.m3u8
