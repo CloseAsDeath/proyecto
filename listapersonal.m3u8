@@ -28,9 +28,12 @@ https://streaming.magentamusik.de/vod/WW/WOA2025_Obituary/hd/9000/index.m3u8
 #EXTGRP:METAL VODS
 https://manifest-arte.akamaized.net/api/manifest/v1/Generate/f41e2a83-80d1-40fe-bffa-d9c8bac3efe7/es/XQ+KS+CHEV1/126233-000-A.m3u8
 
-#EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN
+#EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN CL
 #EXTGRP:DEPORTES
 http://201.222.45.70:4000/play/a08h/index.m3u8
+#EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN CL HD
+#EXTGRP:DEPORTES
+http://45.232.177.16:8000/play/a00s
 #EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN HD
 #EXTGRP:DEPORTES
 http://177.128.113.1:8000/play/a076
