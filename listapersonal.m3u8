@@ -85,6 +85,9 @@ http://179.56.190.187:8000/play/a0tw/index.m3u8
 #EXTINF:-1 tvg-id="1403" tvg-name="TNT Sports Premium • Argentina" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Argentina
 #EXTGRP:DEPORTES
 http://45.5.151.251:8000/play/a00p/index.m3u8
+#EXTINF:-1,GOLTV Ecuador
+#EXTGRP:DEPORTES
+http://45.171.108.252:8000/play/a00m/index.m3u8
 #EXTINF:-1,TNT MX
 #EXTGRP:DEPORTES
 http://45.172.92.111:8000/play/a017/index.m3u8
