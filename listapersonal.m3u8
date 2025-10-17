@@ -154,10 +154,10 @@ https://stitcher.pluto.tv/stitch/hls/channel/66997d18a1b69e00082ee85f/master.m3u
 
 #EXTINF:-1 tvg-id="0302" tvg-name="ETC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png",ETC TV HD
 #EXTGRP:NACIONALES
-http://192.141.99.87:8000/play/a0qs
+http://190.211.172.194:4000/play/a0j2/index.m3u8
 #EXTINF:-1 tvg-id="0302" tvg-name="ETC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png",ETC TV 
 #EXTGRP:NACIONALES
-http://186.179.92.94:9000/play/a07i
+http://38.250.126.145:832/play/a087
 #EXTINF:-1 tvg-id="0106" tvg-name="Chilevisión" tvg-logo="https://i.imgur.com/PRijvR0.png",Chilevision (nl)
 #EXTGRP:NACIONALES
 https://normielista.stream/play/TD87bQiVYgC9iRIuW9UTK6c--MyeYP52NUM8Lbsu_D8T3osBMtH4JyUW1kiEmk9e/m3u8
@@ -236,7 +236,7 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 http://45.235.37.254/starhd/index.m3u8
 #EXTINF:-1 tvg-id="0706" tvg-name="HistoryHD.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/history-channel-ar.png",History HD
 #EXTGRP:CABLE
-http://192.141.99.87:8000/play/a0jy
+http://186.33.40.97:8789/play/32
 #EXTINF:-1 tvg-id="" tvg-name="ElGourmet.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/el-gourmet-ar.png",El Gourmet
 #EXTGRP:CABLE
 http://192.141.99.87:8000/play/a0jz
