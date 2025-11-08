@@ -76,9 +76,9 @@ http://45.172.111.227:8000/play/a03w
 #EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium • Chile" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Premium CL HD
 #EXTGRP:DEPORTES
 http://45.232.176.29:8000/play/a01i
-#EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium • Chile" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Premiun (op 2)
+#EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium • Chile" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Premium 480p
 #EXTGRP:DEPORTES
-http://192.141.99.87:8000/play/a0as
+http://190.93.229.29:8000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="0403" tvg-name="TNT Sports • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/330px-TNT_Sports_%282023%29.svg.png",TNT Sports CL
 #EXTGRP:DEPORTES
 http://179.56.190.187:8000/play/a0tw/index.m3u8
