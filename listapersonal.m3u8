@@ -1,33 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="0411" tvg-name="" tvg-logo="",THE HALO EFFECT SUMMER BREEZE 2025
-#EXTGRP:METAL VODS
-https://arteconcert-a.akamaihd.net/am/concert/123000/123300/123351-007-A_SQ_0_VO_10265804_MP4-2200_AMM-CONCERT-NEXT-60692475376756_2dki1tAbJZ.mp4
-#EXTINF:-1 tvg-id="0411" tvg-name="" tvg-logo="",OBITUARY SUMMER BREEZE 2025
-#EXTGRP:METAL VODS
-https://arteconcert-a.akamaihd.net/am/concert/123000/123300/123351-030-A_SQ_0_VO_10266846_MP4-2200_AMM-CONCERT-NEXT-60692476387045_2dm58tEhva.mp4
-#EXTINF:-1 tvg-id="0411" tvg-name="" tvg-logo="",RIVERS OF NIHIL SUMMER BREEZE 2025
-#EXTGRP:METAL VODS
-https://arteconcert-a.akamaihd.net/am/concert/123000/123300/123351-022-A_SQ_0_VO_10265958_MP4-2200_AMM-CONCERT-NEXT-60692475378047_2dkpStDrk6.mp4
-#EXTINF:-1 tvg-id="0411" tvg-name="" tvg-logo="",WARMEN SUMMER BREEZE 2025
-#EXTGRP:METAL VODS
-https://arteconcert-a.akamaihd.net/am/concert/123000/123300/123351-024-A_SQ_0_VO_10266625_MP4-2200_AMM-CONCERT-NEXT-60692475378329_2dlshtEaYh.mp4
-#EXTINF:-1 tvg-id="0411" tvg-name="" tvg-logo="",ELVENKING SUMMER BREEZE 2025
-#EXTGRP:METAL VODS
-https://arteconcert-a.akamaihd.net/am/concert/123000/123300/123351-013-A_SQ_0_VO_10265913_MP4-2200_AMM-CONCERT-NEXT-60692475377358_2dknUtDqvg.mp4
-#EXTINF:-1 tvg-id="0411" tvg-name="" tvg-logo="",WIND ROSE SUMMER BREEZE 2025
-#EXTGRP:METAL VODS
-https://arteconcert-a.akamaihd.net/am/concert/123000/123300/123351-035-A_SQ_0_VO_10266991_MP4-2200_AMM-CONCERT-NEXT-60692476431525_2dmLOtI4PM.mp4
-#EXTINF:-1 tvg-id="0411" tvg-name="" tvg-logo="",HANABIE SUMMER BREEZE 2025
-#EXTGRP:METAL VODS
-https://arteconcert-a.akamaihd.net/am/concert/123000/123300/123351-016-A_SQ_0_VO_10265947_MP4-2200_AMM-CONCERT-NEXT-60692475377622_2dkoDtDrBq.mp4
-#EXTINF:-1 tvg-id="0411" tvg-name="" tvg-logo="",OBITUARY WACKEN 2025
-#EXTGRP:METAL VODS
-https://streaming.magentamusik.de/vod/WW/WOA2025_Obituary/hd/9000/index.m3u8
-#EXTINF:-1 tvg-id="0411" tvg-name="" tvg-logo="",JUDAS PRIEST HELLFEST 2025
-#EXTGRP:METAL VODS
-https://manifest-arte.akamaized.net/api/manifest/v1/Generate/f41e2a83-80d1-40fe-bffa-d9c8bac3efe7/es/XQ+KS+CHEV1/126233-000-A.m3u8
-
 #EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN CL
 #EXTGRP:DEPORTES
 http://201.222.45.70:4000/play/a08h/index.m3u8
@@ -88,15 +60,6 @@ http://45.5.151.251:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="1403" tvg-name="TNT Sports Premium • Argentina" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Argentina 2
 #EXTGRP:DEPORTES
 http://181.209.125.237:9000/play/a058/index.m3u8
-#EXTINF:-1,GOLTV Ecuador
-#EXTGRP:DEPORTES
-http://45.171.108.252:8000/play/a00m/index.m3u8
-#EXTINF:-1,TNT MX
-#EXTGRP:DEPORTES
-http://45.172.92.111:8000/play/a017/index.m3u8
-#EXTINF:-1,SporTV HD
-#EXTGRP:DEPORTES
-http://200.4.96.59:8825/play/a097/index.m3u8
 #EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",DirecTV Sports
 #EXTGRP:DEPORTES
 http://201.230.121.85:8000/play/a0yv/index.m3u8
@@ -133,12 +96,6 @@ https://bein-esp-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="2418" tvg-name="ESPNDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png",ESPN Deportes
 #EXTGRP:DEPORTES
 http://190.97.183.98:8000/play/a06l
-#EXTINF:-1 tvg-id="2418" tvg-name="WinSportplus.co" tvg-logo="",Win Sports+
-#EXTGRP:DEPORTES
-http://181.205.130.194:4000/play/a0f1
-#EXTINF:-1 tvg-id="2418" tvg-name="TelemundoHD.us" tvg-logo="",Telemundo HD
-#EXTGRP:DEPORTES
-http://38.199.4.160:93/play/a01b
 #EXTINF:-1 tvg-id="2418" tvg-name="FOXDeportes.us" tvg-logo="https://i.imgur.com/IUd3jrC.png",FOX Deportes
 #EXTGRP:DEPORTES
 http://131.161.83.249:8031/play/a02d
@@ -233,94 +190,91 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="0801" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/star-channel-ar.png",Star Channel
 #EXTGRP:CABLE
-http://45.235.37.254/starhd/index.m3u8
+http://181.209.125.237:9000/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="0706" tvg-name="HistoryHD.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/history-channel-ar.png",History HD
 #EXTGRP:CABLE
 http://186.33.40.97:8789/play/32
 #EXTINF:-1 tvg-id="" tvg-name="ElGourmet.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/el-gourmet-ar.png",El Gourmet
 #EXTGRP:CABLE
-http://192.141.99.87:8000/play/a0jz
-#EXTINF:-1 tvg-id="0608" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/food-network-ar.png",Food Network
+http://181.209.125.237:9000/play/a047/index.m3u8
+#EXTINF:-1 tvg-id="0608" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/food-network-ar.png",Food Network (offline)
 #EXTGRP:CABLE
-http://45.235.37.254/foodnetwork/index.m3u8
+
 #EXTINF:-1 tvg-id="0706" tvg-name="HistoryLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png",History
 #EXTGRP:CABLE
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY/index.m3u8
 #EXTINF:-1 tvg-id="0707" tvg-name="History2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png",History 2
 #EXTGRP:CABLE
-http://192.141.99.87:8000/play/a0eb
+http://181.209.125.237:9000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="1701" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/discovery-channel-ar.png",DISCOVERY
 #EXTGRP:CABLE
-http://45.235.37.254/discoveryhd/index.m3u8
+http://181.209.125.237:9000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-id="0702" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/national-geographic-ar.png",NATGEO
 #EXTGRP:CABLE
-http://192.141.99.87:8000/play/a0jx
+http://181.209.125.237:9000/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="0705" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/animal-planet-ar.png",ANIMAL PLANET
 #EXTGRP:CABLE
-http://45.235.37.254/animalplanethd/index.m3u8
-#EXTINF:-1 tvg-id="1604" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/InvestigationDiscovery.png",ID
+http://181.209.125.237:9000/play/a037/index.m3u8
+#EXTINF:-1 tvg-id="1604" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/InvestigationDiscovery.png",ID (offline)
 #EXTGRP:CABLE
-http://45.235.37.254/idhd/index.m3u8
+
 #EXTINF:-1 tvg-id="1305" tvg-name="CartoonNetworkLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 #EXTGRP:CABLE
-http://181.78.208.106:9000/play/a007
-#EXTINF:-1 tvg-id="1305" tvg-name="CartoonNetworkLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",Cartoon Network (op. 2)
+http://181.209.125.237:9000/play/a03f/index.m3u8
+#EXTINF:-1 tvg-id="0308" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/tooncast-ar.png",TOONCAST (offline)
 #EXTGRP:CABLE
-http://45.235.37.254/cartoonnetworkhd/index.m3u8
-#EXTINF:-1 tvg-id="0308" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/tooncast-ar.png",TOONCAST
-#EXTGRP:CABLE
-http://45.235.37.254/tooncast/index.m3u8
+
 #EXTINF:-1 tvg-id="0811" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fx-ar.png",FX
 #EXTGRP:CABLE
-http://45.235.37.254/fxhd/index.m3u8
+http://181.209.125.237:9000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="0840" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cinemax-ar.png",CINEMAX
 #EXTGRP:CABLE
-http://45.235.37.254/cinemaxhd/index.m3u8
-#EXTINF:-1 tvg-id="0316" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/baby-tv-ar.png",BABYTV
+http://190.108.89.228:8000/play/a0ez/index.m3u8
+#EXTINF:-1 tvg-id="0316" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/baby-tv-ar.png",BABYTV (offline)
 #EXTGRP:CABLE
-http://45.235.37.254/babytv/index.m3u8
+
 #EXTINF:-1 tvg-id="0808" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/a-and-e-ar.png",AE
 #EXTGRP:CABLE
-http://45.235.37.254/aehd/index.m3u8
+http://181.209.125.237:9000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="0836" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/amc-ar.png",AMC
 #EXTGRP:CABLE
-http://45.235.37.254/amchd/index.m3u8
+http://181.209.125.237:9000/play/a033/index.m3u8
 #EXTINF:-1 tvg-id="1847" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/axn-ar.png",AXN
 #EXTGRP:CABLE
-http://45.235.37.254/axnhd/index.m3u8
-#EXTINF:-1 tvg-id="0802" tvg-name="" tvg-logo="https://i.imgur.com/1CTpymq.png",DHE
+http://181.209.125.237:9000/play/a035/index.m3u8
+#EXTINF:-1 tvg-id="0802" tvg-name="" tvg-logo="https://i.imgur.com/1CTpymq.png",DHE (offline)
 #EXTGRP:CABLE
-http://45.235.37.254/dhehd/index.m3u8
+
 #EXTINF:-1 tvg-id="0829" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/space-ar.png",SPACE
 #EXTGRP:CABLE
-http://45.235.37.254/spacehd/index.m3u8
-#EXTINF:-1 tvg-id="0821" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/golden-mx.png",GOLDEN
+http://181.209.125.237:9000/play/a05j/index.m3u8
+#EXTINF:-1 tvg-id="0821" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/golden-mx.png",GOLDEN (offline)
 #EXTGRP:CABLE
-http://45.235.37.254/goldenhd/index.m3u8
-#EXTINF:-1 tvg-id="0822" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/golden-plus-mx.png",GOLDEN PLUS
+
+#EXTINF:-1 tvg-id="0822" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/golden-plus-mx.png",GOLDEN PLUS (offline)
 #EXTGRP:CABLE
-http://45.235.37.254/goldenplus/index.m3u8
-#EXTINF:-1 tvg-id="0823" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/golden-edge-mx.png",GOLDEN EDGE
+
+#EXTINF:-1 tvg-id="0823" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/golden-edge-mx.png",GOLDEN EDGE (offline)
 #EXTGRP:CABLE
-http://45.235.37.254/goldenedge/index.m3u8
+
 #EXTINF:-1 tvg-id="0805" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/tnt-ar.png",TNT
 #EXTGRP:CABLE
-http://45.235.37.254/tnthd/index.m3u8
-#EXTINF:-1 tvg-id="0833" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/tnt-series-ar.png",TNT SERIES
+http://181.209.125.237:9000/play/a05b/index.m3u8
+#EXTINF:-1 tvg-id="0833" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/tnt-series-ar.png",TNT SERIES (offline)
 #EXTGRP:CABLE
-http://45.235.37.254/tntserieshd/index.m3u8
+
 #EXTINF:-1 tvg-id="0832" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/warner-channel-ar.png",WARNER
 #EXTGRP:CABLE
-http://45.235.37.254/warnerhd/index.m3u8
+http://181.209.125.237:9000/play/a051/index.m3u8
 #EXTINF:-1 tvg-id="0804" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/universal-tv-ar.png",UNIVERSAL CHANNEL
 #EXTGRP:CABLE
-http://45.235.37.254/universalhd/index.m3u8
-#EXTINF:-1 tvg-id="0834" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/studio-universal-ar.png",STUDIO UNIVERSAL
+http://181.209.125.237:9000/play/a053/index.m3u8
+#EXTINF:-1 tvg-id="0834" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/studio-universal-ar.png",STUDIO UNIVERSAL (offline)
 #EXTGRP:CABLE
-http://45.235.37.254/studiouniversalhd/index.m3u8
+
 #EXTINF:-1 tvg-id="1806" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/sony-channel-ar.png",SONY
 #EXTGRP:CABLE
-http://45.235.37.254/sonyhd/index.m3u8
+http://190.108.89.228:8000/play/a0dv/index.m3u8
 
 #EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/cl.xml.gz"
 #EXTINF:-1 tvg-id="5dcde437229eff00091b6c30" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG_1759246115371.png" group-title="Películas" tvg-chno="18", Pluto TV Cine Estelar
