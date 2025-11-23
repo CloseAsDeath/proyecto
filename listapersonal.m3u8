@@ -42,7 +42,7 @@ http://177.128.113.1:8000/play/a076
 http://181.209.95.26:8000/play/a0ab/index.m3u8
 #EXTINF:-1 tvg-id="2411" tvg-name="ESPN • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN Sur
 #EXTGRP:DEPORTES
-http://http://192.141.99.87:8000/play/a0ax
+http://217.26.190.76:8888/play/a0ee/index.m3u8
 #EXTINF:-1 tvg-id="2411" tvg-name="ESPN • Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN Brasil
 #EXTGRP:DEPORTES
 http://131.161.83.249:8031/play/a05y
@@ -87,7 +87,7 @@ http://179.56.190.187:8000/play/a0tw/index.m3u8
 http://45.5.151.251:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="1403" tvg-name="TNT Sports Premium • Argentina" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Argentina 2
 #EXTGRP:DEPORTES
-http://45.5.151.58:8000/play/a015/index.m3u8
+http://181.209.125.237:9000/play/a058/index.m3u8
 #EXTINF:-1,GOLTV Ecuador
 #EXTGRP:DEPORTES
 http://45.171.108.252:8000/play/a00m/index.m3u8
@@ -114,7 +114,7 @@ http://45.164.151.197:8000/play/sky/index.m3u8
 http://45.232.176.29:8000/play/a02t
 #EXTINF:-1 tvg-id="0409" tvg-name="TyC Sports • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png",TyC Sports HD
 #EXTGRP:DEPORTES
-http://179.63.6.17:9000/play/a07y
+http://181.209.125.237:9000/play/a061/index.m3u8
 #EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://i.imgur.com/b0H5f62.png",Teledeporte
 #EXTGRP:DEPORTES
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
@@ -325,16 +325,12 @@ http://45.235.37.254/sonyhd/index.m3u8
 #EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/cl.xml.gz"
 #EXTINF:-1 tvg-id="5dcde437229eff00091b6c30" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG_1759246115371.png" group-title="Películas" tvg-chno="18", Pluto TV Cine Estelar
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
-
 #EXTINF:-1 tvg-id="5dcb62e63d4d8f0009f36881" tvg-name="Pluto TV Cine Acción" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG_1760378798093.png" group-title="Películas" tvg-chno="21", Pluto TV Cine Acción
 https://stitcher.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
-
 #EXTINF:-1 tvg-id="5e972a21ad709d00074195ba" tvg-name="Estrellas de Acción" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" group-title="Películas" tvg-chno="24", Estrellas de Acción
 https://stitcher.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
-
 #EXTINF:-1 tvg-id="61b793ccf571b80007b7a610" tvg-name="Adrenalina Pura TV" tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png" group-title="Películas" tvg-chno="27", Adrenalina Pura TV
 https://stitcher.pluto.tv/stitch/hls/channel/61b793ccf571b80007b7a610/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
-
 #EXTINF:-1 tvg-id="5dcdde78f080d900098550e4" tvg-name="Pluto TV Cine Comedia" tvg-logo="https://images.pluto.tv/missing.png" group-title="Películas" tvg-chno="33", Pluto TV Cine Comedia
 https://stitcher.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
 
