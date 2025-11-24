@@ -207,7 +207,7 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY/index.m3u8
 http://181.209.125.237:9000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="1701" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/discovery-channel-ar.png",DISCOVERY
 #EXTGRP:CABLE
-http://181.209.125.237:9000/play/a03n/index.m3u8
+http://181.65.207.51:8000/play/a01s
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/discovery-science-ar.png",Discovery Science
 #EXTGRP:CABLE
 http://181.209.125.237:9000/play/a03q/index.m3u8
@@ -219,7 +219,7 @@ http://181.209.125.237:9000/play/a03t/index.m3u8
 http://181.209.125.237:9000/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="0705" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/animal-planet-ar.png",ANIMAL PLANET
 #EXTGRP:CABLE
-http://181.209.125.237:9000/play/a037/index.m3u8
+http://45.160.12.200:8008/play/025/index.m3u8
 #EXTINF:-1 tvg-id="1604" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/InvestigationDiscovery.png",ID
 #EXTGRP:CABLE
 http://181.78.4.250:8098/play/a08x/index.m3u8
