@@ -2,7 +2,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/smithers/guia-de-programacion.xml.gz"
 #EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://i.imgur.com/8lG0Nb7.png",ESPN CL
 #EXTGRP:DEPORTES
-http://201.222.45.70:4000/play/a08h/index.m3u8
+http://38.7.195.45:8000/play/a01b
 #EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://i.imgur.com/8lG0Nb7.png",ESPN CL HD
 #EXTGRP:DEPORTES
 http://45.232.177.16:8000/play/a00s
@@ -44,7 +44,7 @@ http://45.232.176.29:8000/play/a01i
 http://190.93.229.29:8000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="0403" tvg-name="TNT Sports • Chile" tvg-logo="https://i.imgur.com/FE7FpCl.png",TNT Sports Basico
 #EXTGRP:DEPORTES
-http://179.56.190.187:8000/play/a0tw/index.m3u8
+http://45.181.122.46:8090/play/a04m
 #EXTINF:-1 tvg-id="1403" tvg-name="TNT Sports Premium • Argentina" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Argentina
 #EXTGRP:DEPORTES
 http://45.5.151.251:8000/play/a00p/index.m3u8
@@ -56,13 +56,13 @@ http://181.209.125.237:9000/play/a058/index.m3u8
 http://201.230.121.85:8000/play/a0yv/index.m3u8
 #EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://i.imgur.com/CyZ8dS9.png",DirecTV Sports (op. 2)
 #EXTGRP:DEPORTES
-http://157.100.9.51:8000/play/a1a3
+http://179.51.160.246:9009/play/a0ad/index.m3u8
 #EXTINF:-1 tvg-id="0432" tvg-name="DSports 2 • América Latina" tvg-logo="https://i.imgur.com/HecxfZb.png",DirecTV Sports 2
 #EXTGRP:DEPORTES
-http://179.51.136.19:8000/play/a112/index.m3u8
+http://181.66.249.25:8000/play/a0d2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports LaLiga" tvg-logo="https://i.imgur.com/cnRlKeF.png",Sky Sports LaLiga
 #EXTGRP:DEPORTES
-http://45.164.151.197:8000/play/sky/index.m3u8
+http://181.78.106.127:9000/play/ca030/index.m3u8
 #EXTINF:-1 tvg-id="0409" tvg-name="TyC Sports • Latinoamérica" tvg-logo="https://i.imgur.com/x2AUhUC.png",TyC Sports SD
 #EXTGRP:DEPORTES
 http://45.232.176.29:8000/play/a02t
@@ -83,10 +83,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65cf60d16
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="2418" tvg-name="ESPNDeportes.us" tvg-logo="https://i.imgur.com/cnJZL7i.png",ESPN Deportes
 #EXTGRP:DEPORTES
-http://190.97.183.98:8000/play/a06l
+http://131.161.83.249:8031/play/a07f/index.m3u8
 #EXTINF:-1 tvg-id="2418" tvg-name="FOXDeportes.us" tvg-logo="https://i.imgur.com/IUd3jrC.png",FOX Deportes
 #EXTGRP:DEPORTES
-http://131.161.83.249:8031/play/a02d
+http://148.113.207.98:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png",CBS Sports Golazo Network
 #EXTGRP:DEPORTES
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e4845f0b-8107-11f0-9a74-4e73f98cfba2
@@ -128,23 +128,23 @@ http://38.250.126.145:832/play/a087
 https://normielista.stream/play/TD87bQiVYgC9iRIuW9UTK6c--MyeYP52NUM8Lbsu_D8T3osBMtH4JyUW1kiEmk9e/m3u8
 #EXTINF:-1 tvg-id="0106" tvg-name="Chilevisión" tvg-logo="https://i.imgur.com/PRijvR0.png",Chilevision
 #EXTGRP:NACIONALES
-http://186.179.92.94:9000/play/a00g
+http://103.23.62.238:8000/play/a04o
 #EXTINF:-1 tvg-id="0104" tvg-name="TVN.cl" tvg-logo="https://i.imgur.com/3FKZHL4.png",TVN
 #EXTGRP:NACIONALES
-http://45.235.37.254/tvnhd/index.m3u8
+http://38.7.195.45:8000/play/a00s
 #EXTINF:-1 tvg-id="0117" tvg-logo="https://i.imgur.com/9LEiQPJ.png",TVN3
 #EXTGRP:NACIONALES
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-#EXTINF:-1 tvg-id="0109" tvg-name="Mega2.cl" tvg-logo="https://cdn-w.tvdaldia.cl/epg/logos/mega2.png",Mega 2
+#EXTINF:-1 tvg-id="0109" tvg-name="Mega2.cl" tvg-logo="https://i.imgur.com/GUlMQn4.png",Mega 2
 #EXTGRP:NACIONALES
-http://38.7.195.44:8000/play/a01u
+http://38.225.116.4:22000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="0105" tvg-name="Mega.cl" tvg-logo="https://i.imgur.com/RlZfR84.png",Mega
 #EXTGRP:NACIONALES
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="0107" tvg-name="Canal13.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Logo_Canal_13_2025.svg/1024px-Logo_Canal_13_2025.svg.png",Canal 13
+#EXTINF:-1 tvg-id="0107" tvg-name="Canal13.cl" tvg-logo="https://i.imgur.com/zx4Vjpq.png",Canal 13
 #EXTGRP:NACIONALES
-http://45.235.37.254/canal13hd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="13i.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/13i_2018.png/500px-13i_2018.png",Canal 13 Internacional
+http://190.102.237.130:8999/play/a03k
+#EXTINF:-1 tvg-id="" tvg-name="13i.cl" tvg-logo="https://i.imgur.com/B3mEwYf.png",Canal 13 Internacional
 #EXTGRP:NACIONALES
 https://redirector.dps.live/hls/13intav/playlist.m3u8
 #EXTINF:-1 tvg-id="0214" tvg-name="T13 en Vivo" tvg-logo="https://i.imgur.com/PktzDCH.png",T13
@@ -162,7 +162,7 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 #EXTINF:-1 tvg-id="0164" tvg-name="13T.cl" tvg-logo="https://i.imgur.com/Agtfbfi.png",13 Teleseries
 #EXTGRP:NACIONALES
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1 tvg-id="0125" tvg-name="MiRadio TV" tvg-logo="http://zapallo.ddns.net:29292/logos/miradiotv.jpg",MiRadio TV
+#EXTINF:-1 tvg-id="0125" tvg-name="MiRadio TV" tvg-logo="https://miradiotv.cl/assets/images/MiRadioTv_black.png",MiRadio TV
 #EXTGRP:NACIONALES
 https://tls-cl.cdnz.cl/miradio2/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ChileChannel.cl" tvg-logo="https://i.imgur.com/F1it6fh.png",Chile Channel
@@ -171,21 +171,12 @@ https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW Español" tvg-logo="https://i.imgur.com/8MRNFb9.png",DW Español
 #EXTGRP:NACIONALES
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EnerGeek.cl" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png",EnerGeek
-#EXTGRP:NACIONALES
-https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
-#EXTINF:-1 tvg-id="0536" tvg-name="EnerGeekRadio.cl" tvg-logo="https://i.imgur.com/euaoN1A.png",EnerGeek Radio
-#EXTGRP:NACIONALES
-https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
-#EXTINF:-1 tvg-id="0314" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png",Fanpop TV
-#EXTGRP:NACIONALES
-https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 #EXTINF:-1 tvg-id="0102" tvg-name="LaRed.cl" tvg-logo="https://i.imgur.com/nJOVM6e.png",La Red
 #EXTGRP:NACIONALES
-http://45.235.37.254/laredhd/index.m3u8
+http://38.7.195.45:8000/play/a00r
 #EXTINF:-1 tvg-id="" tvg-name="NTV.cl" tvg-logo="https://i.imgur.com/NnkSyta.png",NTV
 #EXTGRP:NACIONALES
-http://45.235.37.254/ntvhd/index.m3u8
+http://38.7.195.45:8000/play/a012
 #EXTINF:-1 tvg-id="0123" tvg-name="ThemaTelevision.cl" tvg-logo="https://i.imgur.com/SvMw4IG.jpeg",Thema TV
 #EXTGRP:NACIONALES
 https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
