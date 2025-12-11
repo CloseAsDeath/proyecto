@@ -17,7 +17,7 @@ http://38.252.215.33:8000/play/a011/index.m3u8
 http://217.26.190.76:8888/play/a0ee/index.m3u8
 #EXTINF:-1 tvg-id="2412" tvg-name="ESPN 2 • América Latina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png",ESPN 2
 #EXTGRP:DEPORTES
-http://45.5.151.251:8000/play/a00i/index.m3u8
+http://38.41.8.1:8000/play/a0rp
 #EXTINF:-1 tvg-id="2412" tvg-name="ESPN 2 • América Latina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png",ESPN 2 HD
 #EXTGRP:DEPORTES
 http://38.41.8.1:8000/play/a07q
@@ -30,6 +30,9 @@ http://45.5.151.251:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-5-lam.png",ESPN 5
 #EXTGRP:DEPORTES
 http://38.7.195.44:8000/play/a024
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7" tvg-logo="https://i.imgur.com/y1VRZnE.png",ESPN 7
+#EXTGRP:DEPORTES
+http://190.108.89.228:8000/play/a09g/index.m3u8
 #EXTINF:-1 tvg-id="0418" tvg-name="ESPN Premium • Chile" tvg-logo="https://i.imgur.com/glWPW0N.png",ESPN Premium
 #EXTGRP:DEPORTES
 http://45.5.151.251:8000/play/a00k/index.m3u8
