@@ -56,7 +56,7 @@ http://45.5.151.251:8000/play/a00p/index.m3u8
 http://181.209.125.237:9000/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://i.imgur.com/CyZ8dS9.png",DirecTV Sports
 #EXTGRP:DEPORTES
-http://201.230.121.85:8000/play/a0yv/index.m3u8
+http://8.243.126.131:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://i.imgur.com/CyZ8dS9.png",DirecTV Sports (op. 2)
 #EXTGRP:DEPORTES
 http://179.51.160.246:9009/play/a0ad/index.m3u8
@@ -68,7 +68,7 @@ http://181.66.249.25:8000/play/a0d2/index.m3u8
 http://217.26.190.76:8888/play/a0jb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports LaLiga" tvg-logo="https://i.imgur.com/cnRlKeF.png",Sky Sports LaLiga
 #EXTGRP:DEPORTES
-http://181.78.106.127:9000/play/ca030/index.m3u8
+http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="0409" tvg-name="TyC Sports • Latinoamérica" tvg-logo="https://i.imgur.com/x2AUhUC.png",TyC Sports SD
 #EXTGRP:DEPORTES
 http://45.232.176.29:8000/play/a02t
