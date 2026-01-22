@@ -23,7 +23,7 @@ http://38.41.8.1:8000/play/a0rp
 http://38.41.8.1:8000/play/a07q
 #EXTINF:-1 tvg-id="0412" tvg-name="ESPN 3 • Chile" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-3-ar.png",ESPN 3
 #EXTGRP:DEPORTES
-http://45.181.120.65:9087/play/056/index.m3u8
+http://190.187.200.243:8000/play/a0ps/index.m3u8
 #EXTINF:-1 tvg-id="0412" tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-4-lam.png",ESPN 4
 #EXTGRP:DEPORTES
 http://45.5.151.251:8000/play/a00j/index.m3u8
