@@ -102,10 +102,10 @@ https://stitcher.pluto.tv/stitch/hls/channel/66997d18a1b69e00082ee85f/master.m3u
 
 #EXTINF:-1 tvg-id="0302" tvg-name="ETC TV" tvg-logo="https://i.imgur.com/AzjSZkc.png",ETC TV HD
 #EXTGRP:NACIONALES
-http://190.211.172.194:4000/play/a0j2/index.m3u8
+http://38.43.132.201:8000/play/a0hw/index.m3u8
 #EXTINF:-1 tvg-id="0302" tvg-name="ETC TV" tvg-logo="https://i.imgur.com/AzjSZkc.png",ETC TV 
 #EXTGRP:NACIONALES
-http://38.250.126.145:832/play/a087
+http://190.60.49.242:4000/play/a0oh/index.m3u8
 #EXTINF:-1 tvg-id="0106" tvg-name="Chilevisión" tvg-logo="https://i.imgur.com/PRijvR0.png",Chilevision (nl)
 #EXTGRP:NACIONALES
 https://normielista.stream/play/TD87bQiVYgC9iRIuW9UTK6c--MyeYP52NUM8Lbsu_D8T3osBMtH4JyUW1kiEmk9e/m3u8
