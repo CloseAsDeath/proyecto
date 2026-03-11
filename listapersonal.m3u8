@@ -33,10 +33,10 @@ http://38.7.195.44:8000/play/a024
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 7" tvg-logo="https://i.imgur.com/y1VRZnE.png",ESPN 7
 #EXTGRP:DEPORTES
 http://190.108.89.228:8000/play/a09g/index.m3u8
-#EXTINF:-1 tvg-id="0418" tvg-name="ESPN Premium • Chile" tvg-logo="https://i.imgur.com/glWPW0N.png",ESPN Premium
+#EXTINF:-1 tvg-id="0418" tvg-name="ESPN Premium • Chile" tvg-logo="https://i.imgur.com/glWPW0N.png",ESPN Premium CL
 #EXTGRP:DEPORTES
-http://201.217.246.166:8000/play/a086/index.m3u8
-#EXTINF:-1 tvg-id="0418" tvg-name="ESPN Premium • Chile" tvg-logo="https://i.imgur.com/glWPW0N.png",ESPN Premium 2
+http://38.187.3.110:8000/play/a0aq/index.m3u8
+#EXTINF:-1 tvg-id="0418" tvg-name="ESPN Premium • Chile" tvg-logo="https://i.imgur.com/glWPW0N.png",ESPN Premium AR
 #EXTGRP:DEPORTES
 http://45.170.40.11:8000/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium • Chile" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Premium CL HD
