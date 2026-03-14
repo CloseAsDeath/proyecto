@@ -41,7 +41,10 @@ http://38.187.3.110:8000/play/a0aq/index.m3u8
 http://45.170.40.11:8000/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium • Chile" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Premium CL HD
 #EXTGRP:DEPORTES
-http://181.78.79.131:8000/play/a0lx
+http://38.41.8.1:8000/play/a0rn
+#EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium • Chile" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Premium 2 
+#EXTGRP:DEPORTES
+http://38.7.223.20:8000/play/a094
 #EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium • Chile" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Premium SD
 #EXTGRP:DEPORTES
 http://216.155.91.47:8000/play/a0nt/index.m3u8
@@ -102,10 +105,10 @@ https://stitcher.pluto.tv/stitch/hls/channel/66997d18a1b69e00082ee85f/master.m3u
 
 #EXTINF:-1 tvg-id="0302" tvg-name="ETC TV" tvg-logo="https://i.imgur.com/AzjSZkc.png",ETC TV HD
 #EXTGRP:NACIONALES
-http://38.43.132.201:8000/play/a0hw/index.m3u8
+http://216.155.91.47:8000/play/a0lf/index.m3u8
 #EXTINF:-1 tvg-id="0302" tvg-name="ETC TV" tvg-logo="https://i.imgur.com/AzjSZkc.png",ETC TV 
 #EXTGRP:NACIONALES
-http://190.60.49.242:4000/play/a0oh/index.m3u8
+http://190.60.59.67:8000/play/a0ea
 #EXTINF:-1 tvg-id="0106" tvg-name="Chilevisión" tvg-logo="https://i.imgur.com/PRijvR0.png",Chilevision (nl)
 #EXTGRP:NACIONALES
 https://normielista.stream/play/TD87bQiVYgC9iRIuW9UTK6c--MyeYP52NUM8Lbsu_D8T3osBMtH4JyUW1kiEmk9e/m3u8
