@@ -38,7 +38,7 @@ http://190.108.89.228:8000/play/a09g/index.m3u8
 http://38.187.3.110:8000/play/a0aq/index.m3u8
 #EXTINF:-1 tvg-id="0418" tvg-name="ESPN Premium • Chile" tvg-logo="https://i.imgur.com/glWPW0N.png",ESPN Premium AR
 #EXTGRP:DEPORTES
-http://45.170.40.11:8000/play/a031/index.m3u8
+http://38.41.8.1:8000/play/a0t7
 #EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium • Chile" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Premium CL HD
 #EXTGRP:DEPORTES
 http://38.41.8.1:8000/play/a0rn
@@ -74,10 +74,16 @@ http://217.26.190.76:8888/play/a0jb/index.m3u8
 http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="0409" tvg-name="TyC Sports • Latinoamérica" tvg-logo="https://i.imgur.com/x2AUhUC.png",TyC Sports SD
 #EXTGRP:DEPORTES
-http://45.232.176.29:8000/play/a02t
+http://190.2.213.220:8000/play/a0e2/index.m3u8
 #EXTINF:-1 tvg-id="0409" tvg-name="TyC Sports • Latinoamérica" tvg-logo="https://i.imgur.com/x2AUhUC.png",TyC Sports HD
 #EXTGRP:DEPORTES
-http://181.209.125.237:9000/play/a061/index.m3u8
+http://216.155.91.47:8000/play/a0of/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Win Sports
+#EXTGRP:DEPORTES
+http://181.78.17.52:8000/play/a0hz/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",ECDF SD
+#EXTGRP:DEPORTES
+http://190.2.213.220:8000/play/a0e4/index.m3u8
 #EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://i.imgur.com/b0H5f62.png",Teledeporte
 #EXTGRP:DEPORTES
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
