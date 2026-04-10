@@ -105,21 +105,22 @@ http://38.49.128.38:8000/play/a0la/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TUDN • México" tvg-logo="https://i.imgur.com/UH8wM9b.png",TUDN
 #EXTGRP:DEPORTES
 http://190.83.9.222:8000/play/ca099/index.m3u8
+#EXTINF:-1 tvg-id="0406" tvg-name="BeIN Sports ES" tvg-logo="https://i.imgur.com/94J4grf.png",beIN SPORTS VE
+#EXTGRP:DEPORTES
+http://200.59.188.3:8000/play/a0cm
 #EXTINF:-1 tvg-id="0406" tvg-name="BeIN Sports Xtra Español" tvg-logo="https://i.imgur.com/V562tpO.png",beIN SPORTS XTRA
 #EXTGRP:DEPORTES
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="2418" tvg-name="ESPNDeportes.us" tvg-logo="https://i.imgur.com/cnJZL7i.png",ESPN Deportes
 #EXTGRP:DEPORTES
-http://131.161.83.249:8031/play/a07f/index.m3u8
+http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 #EXTINF:-1 tvg-id="2418" tvg-name="FOXDeportes.us" tvg-logo="https://i.imgur.com/IUd3jrC.png",FOX Deportes
 #EXTGRP:DEPORTES
 https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
 #EXTINF:-1 tvg-id="2418" tvg-name="FOXDeportes.us" tvg-logo="https://i.imgur.com/IUd3jrC.png",FOX Deportes MX
 #EXTGRP:DEPORTES
 http://186.151.95.60:8000/play/a05r/index.m3u8
-#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png",CBS Sports Golazo Network
-#EXTGRP:DEPORTES
-https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e4845f0b-8107-11f0-9a74-4e73f98cfba2
+
 #EXTINF:-1 tvg-id="" tvg-name="FIFA+.us" tvg-logo="https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG.png",FIFA+
 #EXTGRP:DEPORTES
 https://stitcher.pluto.tv/stitch/hls/channel/66997d18a1b69e00082ee85f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=69ba6819-2f0b-11f0-8d07-92838e8cc0e6
