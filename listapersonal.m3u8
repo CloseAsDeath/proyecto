@@ -8,7 +8,7 @@ http://38.7.195.45:8000/play/a01b
 http://38.7.223.20:8000/play/a0l3
 #EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://i.imgur.com/8lG0Nb7.png",ESPN HD
 #EXTGRP:DEPORTES
-http://190.61.42.218:9000/play/a05t/index.m3u8
+http://152.231.29.139:8000/play/a0g3/index.m3u8
 #EXTINF:-1 tvg-id="1411" tvg-name="ESPN • Argentina" tvg-logo="https://i.imgur.com/8lG0Nb7.png",ESPN Argentina
 #EXTGRP:DEPORTES
 http://38.252.215.33:8000/play/a011/index.m3u8
