@@ -95,7 +95,7 @@ http://190.2.213.220:8000/play/a0e4/index.m3u8
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png",Real Madrid TV
 #EXTGRP:DEPORTES
-
+https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
 #EXTINF:-1 tvg-id="0442" tvg-name="Azteca Deportes • México" tvg-logo="https://i.imgur.com/33D8Ihk.png",Azteca Deportes
 #EXTGRP:DEPORTES
 http://38.41.8.1:8000/play/a0ye
@@ -104,7 +104,10 @@ http://38.41.8.1:8000/play/a0ye
 http://38.49.128.38:8000/play/a0la/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TUDN • México" tvg-logo="https://i.imgur.com/UH8wM9b.png",TUDN
 #EXTGRP:DEPORTES
-http://190.83.9.222:8000/play/ca099/index.m3u8
+https://streaming.alwaysdata.net/tudn.php
+#EXTINF:-1 tvg-id="" tvg-name="TUDN • México" tvg-logo="https://i.imgur.com/UH8wM9b.png",TUDN 2
+#EXTGRP:DEPORTES
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8
 #EXTINF:-1 tvg-id="0406" tvg-name="BeIN Sports ES" tvg-logo="https://i.imgur.com/94J4grf.png",beIN SPORTS VE
 #EXTGRP:DEPORTES
 http://200.59.188.3:8000/play/a0cm
@@ -120,7 +123,6 @@ https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
 #EXTINF:-1 tvg-id="2418" tvg-name="FOXDeportes.us" tvg-logo="https://i.imgur.com/IUd3jrC.png",FOX Deportes MX
 #EXTGRP:DEPORTES
 http://186.151.95.60:8000/play/a05r/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="FIFA+.us" tvg-logo="https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG.png",FIFA+
 #EXTGRP:DEPORTES
 https://stitcher.pluto.tv/stitch/hls/channel/66997d18a1b69e00082ee85f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=69ba6819-2f0b-11f0-8d07-92838e8cc0e6
