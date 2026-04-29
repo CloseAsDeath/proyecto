@@ -39,6 +39,9 @@ http://38.7.223.20:8000/play/a0jd
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 7" tvg-logo="https://i.imgur.com/y1VRZnE.png",ESPN 7
 #EXTGRP:DEPORTES
 http://190.0.247.38:8000/play/a014
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7" tvg-logo="https://i.imgur.com/y1VRZnE.png",ESPN 7
+#EXTGRP:DEPORTES
+http://8.243.126.131:8000/play/a065/index.m3u8
 #EXTINF:-1 tvg-id="0418" tvg-name="ESPN Premium • Chile" tvg-logo="https://i.imgur.com/glWPW0N.png",ESPN Premium CL
 #EXTGRP:DEPORTES
 http://38.187.3.110:8000/play/a0aq/index.m3u8
@@ -132,7 +135,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/66997d18a1b69e00082ee85f/master.m3u
 
 #EXTINF:-1 tvg-id="0302" tvg-name="ETC TV" tvg-logo="https://i.imgur.com/AzjSZkc.png",ETC TV HD
 #EXTGRP:NACIONALES
-http://216.155.91.47:8000/play/a0lf/index.m3u8
+http://38.7.223.20:8000/play/a0hj
 #EXTINF:-1 tvg-id="0302" tvg-name="ETC TV" tvg-logo="https://i.imgur.com/AzjSZkc.png",ETC TV 
 #EXTGRP:NACIONALES
 http://190.60.59.67:8000/play/a0ea
