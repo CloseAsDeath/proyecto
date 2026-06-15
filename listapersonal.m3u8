@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTM3U url-tvg="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/smithers/guia-de-programacion.xml.gz"
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="",Telemundo
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://i.imgur.com/8lG0Nb7.png",ESPN CL
 #EXTGRP:DEPORTES
 http://38.7.195.45:8000/play/a01b
