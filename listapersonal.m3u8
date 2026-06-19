@@ -56,7 +56,7 @@ http://38.41.8.1:8000/play/a0t7
 http://138.121.114.91:8000/play/a099/index.m3u8
 #EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium • Chile" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Premium CL HD
 #EXTGRP:DEPORTES
-http://38.41.8.1:8000/play/a0rn
+http://181.78.79.131:8000/play/a0q9
 #EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium • Chile" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Premium 2 
 #EXTGRP:DEPORTES
 http://38.7.223.20:8000/play/a094
