@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTM3U url-tvg="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/smithers/guia-de-programacion.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="",Fox
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Spain" tvg-logo="",DAZN Spain
 #EXTGRP:DEPORTES
-https://streamxyz.shop/FS1/index.m3u8
+https://lb11.strmd.st/secure/BVqaFJJmLLRxODEiEeXiaBkmDXPOMKVP/rtmp/stream/rU2EFVeo_fWwx5jaofD430Pg_tduiWkk3Edr9jbehWtdMagKzuWDDBC4JOJ-QuUMuMRU2Hz1t5w/1/high/mono.m3u8
 #EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://i.imgur.com/8lG0Nb7.png",ESPN CL
 #EXTGRP:DEPORTES
 http://38.7.195.45:8000/play/a01b
