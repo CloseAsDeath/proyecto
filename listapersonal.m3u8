@@ -205,16 +205,13 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 http://72.1.184.5:8089/play/a03h/index.m3u8
 #EXTINF:-1 tvg-id="0706" tvg-name="HistoryHD.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/history-channel-ar.png",History HD
 #EXTGRP:CABLE
-http://http://72.1.184.5:8089/play/a0am/index.m3u8
+http://72.1.184.5:8089/play/a0am/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ElGourmet.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/el-gourmet-ar.png",El Gourmet
 #EXTGRP:CABLE
 http://72.1.184.5:8089/play/a04t/index.m3u8
 #EXTINF:-1 tvg-id="0608" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/food-network-ar.png",Food Network (offline)
 #EXTGRP:CABLE
 
-#EXTINF:-1 tvg-id="0706" tvg-name="HistoryLatinAmerica.us@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/history-channel-ar.png",History
-#EXTGRP:CABLE
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY/index.m3u8
 #EXTINF:-1 tvg-id="0707" tvg-name="History2LatinAmerica.us" tvg-logo="https://i.imgur.com/IfQyNPh.png",History 2 (offline)
 #EXTGRP:CABLE
 
