@@ -1,8 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/smithers/guia-de-programacion.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Spain" tvg-logo="",DAZN Spain
-#EXTGRP:DEPORTES
-https://lb11.strmd.st/secure/BVqaFJJmLLRxODEiEeXiaBkmDXPOMKVP/rtmp/stream/rU2EFVeo_fWwx5jaofD430Pg_tduiWkk3Edr9jbehWtdMagKzuWDDBC4JOJ-QuUMuMRU2Hz1t5w/1/high/mono.m3u8
+#EXTM3U url-tvg="https://raw.githubusercontent.com/InfoTV-CL/INFOCLTV/main/guia-de-programacion.xml"
 #EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://i.imgur.com/8lG0Nb7.png",ESPN CL
 #EXTGRP:DEPORTES
 http://38.7.195.45:8000/play/a01b
@@ -200,6 +197,10 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTGRP:NACIONALES
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hSb8lg3.png",Simpsons Latino 24/7
+#EXTGRP:CABLE
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16064
 #EXTINF:-1 tvg-id="0801" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/star-channel-ar.png",Star Channel
 #EXTGRP:CABLE
 http://72.1.184.5:8089/play/a03h/index.m3u8
@@ -233,6 +234,9 @@ http://72.1.184.5:8089/play/a05c/index.m3u8
 #EXTINF:-1 tvg-id="1604" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/InvestigationDiscovery.png",ID
 #EXTGRP:CABLE
 http://72.1.184.5:8089/play/a06f/index.m3u8
+#EXTINF:-1 tvg-id="0850" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/adult-swim-ca.png",Adult Swim
+#EXTGRP:CABLE
+http://72.1.184.5:8089/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="1305" tvg-name="CartoonNetworkLatinAmerica.us" tvg-logo="https://i.imgur.com/LGHiEYM.png",Cartoon Network
 #EXTGRP:CABLE
 http://72.1.184.5:8089/play/a07n/index.m3u8
