@@ -63,12 +63,6 @@ http://216.155.91.47:8000/play/a0nt/index.m3u8
 #EXTINF:-1 tvg-id="0403" tvg-name="TNT Sports • Chile" tvg-logo="https://i.imgur.com/FE7FpCl.png",TNT Sports Basico
 #EXTGRP:DEPORTES
 http://216.155.91.47:8000/play/a0og/index.m3u8
-#EXTINF:-1 tvg-id="0403" tvg-name="TNT Sports • Chile" tvg-logo="https://i.imgur.com/FE7FpCl.png",TNT Sports Basico 2
-#EXTGRP:DEPORTES
-http://tr.live.clarovtrcdn.vtrplay.com/cdfhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 tvg-id="0403" tvg-name="TNT Sports • Chile" tvg-logo="https://i.imgur.com/FE7FpCl.png",TNT Sports Basico 3
-#EXTGRP:DEPORTES
-http://tr.live.clarovtrcdn.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-id="1403" tvg-name="TNT Sports Premium • Argentina" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Argentina
 #EXTGRP:DEPORTES
 http://190.7.19.197:232/play/a037/index.m3u8
@@ -92,28 +86,22 @@ http://217.26.190.76:8888/play/a0jb/index.m3u8
 http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="0409" tvg-name="TyC Sports • Latinoamérica" tvg-logo="https://i.imgur.com/x2AUhUC.png",TyC Sports SD
 #EXTGRP:DEPORTES
-http://190.2.213.220:8000/play/a0e2/index.m3u8
+http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="0409" tvg-name="TyC Sports • Latinoamérica" tvg-logo="https://i.imgur.com/x2AUhUC.png",TyC Sports HD
 #EXTGRP:DEPORTES
-http://216.155.91.47:8000/play/a0of/index.m3u8
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-id="0409" tvg-name="Tigo Sports" tvg-logo="https://i.imgur.com/GTPYNmV.png",Tigo Sports HD
+#EXTGRP:DEPORTES
+http://72.1.184.5:8089/play/a06i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MOh5sQs.png",Win Sports
 #EXTGRP:DEPORTES
 http://138.121.15.230:9002/WIN-SPORT/index.m3u8
-#EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://i.imgur.com/b0H5f62.png",Teledeporte
-#EXTGRP:DEPORTES
-https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png",Real Madrid TV
 #EXTGRP:DEPORTES
 https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TUDN • México" tvg-logo="https://i.imgur.com/UH8wM9b.png",TUDN
 #EXTGRP:DEPORTES
 https://streaming.alwaysdata.net/tudn.php
-#EXTINF:-1 tvg-id="" tvg-name="TUDN • México" tvg-logo="https://i.imgur.com/UH8wM9b.png",TUDN 2
-#EXTGRP:DEPORTES
-http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8
-#EXTINF:-1 tvg-id="0406" tvg-name="BeIN Sports ES" tvg-logo="https://i.imgur.com/94J4grf.png",beIN SPORTS VE
-#EXTGRP:DEPORTES
-http://200.59.188.3:8000/play/a0cm
 #EXTINF:-1 tvg-id="0406" tvg-name="BeIN Sports Xtra Español" tvg-logo="https://i.imgur.com/V562tpO.png",beIN SPORTS XTRA
 #EXTGRP:DEPORTES
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
@@ -122,13 +110,10 @@ https://bein-esp-xumo.amagi.tv/playlist.m3u8
 http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 #EXTINF:-1 tvg-id="2418" tvg-name="FOXDeportes.us" tvg-logo="https://i.imgur.com/IUd3jrC.png",FOX Deportes
 #EXTGRP:DEPORTES
-https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
-#EXTINF:-1 tvg-id="2418" tvg-name="FOXDeportes.us" tvg-logo="https://i.imgur.com/IUd3jrC.png",FOX Deportes MX
-#EXTGRP:DEPORTES
-http://186.151.95.60:8000/play/a05r/index.m3u8
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FIFA+.us" tvg-logo="https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG.png",FIFA+
 #EXTGRP:DEPORTES
-https://stitcher.pluto.tv/stitch/hls/channel/66997d18a1b69e00082ee85f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=69ba6819-2f0b-11f0-8d07-92838e8cc0e6
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="0302" tvg-name="ETC TV" tvg-logo="https://i.imgur.com/AzjSZkc.png",ETC TV 
 #EXTGRP:NACIONALES
@@ -151,9 +136,12 @@ https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="0105" tvg-name="Mega.cl" tvg-logo="https://i.imgur.com/RlZfR84.png",Mega (VTR)
 #EXTGRP:NACIONALES
 http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="0107" tvg-name="Canal13.cl" tvg-logo="https://i.imgur.com/zx4Vjpq.png",Canal 13 (Movistar)
+#EXTGRP:NACIONALES
+https://pantera1-100gb-cl-movistar.dps.live/t13radio/t13radio.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="0107" tvg-name="Canal13.cl" tvg-logo="https://i.imgur.com/zx4Vjpq.png",Canal 13
 #EXTGRP:NACIONALES
-http://181.119.86.1:8000/play/a028
+https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/9f8c1499-d4d8-469f-903a-eca36dc741b4:SCL2/variant/ed68044fabc13545b407e1c2beeee886/bandwidth/1623600.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="13i.cl" tvg-logo="https://i.imgur.com/B3mEwYf.png",Canal 13 Internacional
 #EXTGRP:NACIONALES
 https://redirector.dps.live/hls/13intav/playlist.m3u8
@@ -183,7 +171,7 @@ https://v2.tustreaming.cl/chilechannel/index.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="0102" tvg-name="LaRed.cl" tvg-logo="https://i.imgur.com/nJOVM6e.png",La Red
 #EXTGRP:NACIONALES
-http://38.7.195.45:8000/play/a00r
+https://ds5i0a12qngha.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV.cl" tvg-logo="https://i.imgur.com/NnkSyta.png",NTV
 #EXTGRP:NACIONALES
 http://38.7.195.45:8000/play/a012
@@ -197,7 +185,9 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTGRP:NACIONALES
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PpD5Guw.png",Telemundo
+#EXTGRP:CABLE
+https://streamvidex.qzz.io/videx/telemundo/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hSb8lg3.png",Simpsons Latino 24/7
 #EXTGRP:CABLE
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16064
@@ -276,6 +266,9 @@ http://72.1.184.5:8089/play/a08w/index.m3u8
 #EXTINF:-1 tvg-id="0823" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/golden-edge-mx.png",GOLDEN EDGE (offline)
 #EXTGRP:CABLE
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/hbo-ar.png",HBO HD
+#EXTGRP:CABLE
+http://72.1.184.5:8089/play/a07o/index.m3u8
 #EXTINF:-1 tvg-id="0805" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/tnt-ar.png",TNT
 #EXTGRP:CABLE
 http://72.1.184.5:8089/play/a06p/index.m3u8
