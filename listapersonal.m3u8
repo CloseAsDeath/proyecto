@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTM3U url-tvg="https://raw.githubusercontent.com/InfoTV-CL/INFOCLTV/main/guia-de-programacion.xml"
-#EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://i.imgur.com/8lG0Nb7.png",ESPN CL
+#EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://i.imgur.com/8lG0Nb7.png",ESPN CL (Offline)
 #EXTGRP:DEPORTES
 http://38.7.195.45:8000/play/a01b
-#EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://i.imgur.com/8lG0Nb7.png",ESPN CL HD
-#EXTGRP:DEPORTES
-http://38.7.223.20:8000/play/a0l3
 #EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://i.imgur.com/8lG0Nb7.png",ESPN HD
 #EXTGRP:DEPORTES
+http://187.102.208.209:8000/play/a04w/index.m3u8
+#EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://i.imgur.com/8lG0Nb7.png",ESPN Colombia
+#EXTGRP:DEPORTES
 http://152.231.29.139:8000/play/a0g3/index.m3u8
-#EXTINF:-1 tvg-id="1411" tvg-name="ESPN • Argentina" tvg-logo="https://i.imgur.com/8lG0Nb7.png",ESPN Argentina
+#EXTINF:-1 tvg-id="1411" tvg-name="ESPN • Argentina" tvg-logo="https://i.imgur.com/8lG0Nb7.png",ESPN Argentina (Offline)
 #EXTGRP:DEPORTES
 http://38.252.215.33:8000/play/a011/index.m3u8
-#EXTINF:-1 tvg-id="2411" tvg-name="ESPN • Argentina" tvg-logo="https://i.imgur.com/8lG0Nb7.png",ESPN Sur
+#EXTINF:-1 tvg-id="2411" tvg-name="ESPN • Argentina" tvg-logo="https://i.imgur.com/8lG0Nb7.png",ESPN Sur (Offline)
 #EXTGRP:DEPORTES
 http://217.26.190.76:8888/play/a0ee/index.m3u8
 #EXTINF:-1 tvg-id="2412" tvg-name="ESPN 2 • América Latina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png",ESPN 2
@@ -35,28 +35,22 @@ http://190.60.59.67:8000/play/a0gc
 http://38.7.195.44:8000/play/a024
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 6" tvg-logo="https://i.imgur.com/iAKyXcH.png",ESPN 6
 #EXTGRP:DEPORTES
-http://38.7.223.20:8000/play/a0jd
+http://187.102.208.209:8000/play/a03v/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 7" tvg-logo="https://i.imgur.com/y1VRZnE.png",ESPN 7
 #EXTGRP:DEPORTES
-http://190.0.247.38:8000/play/a014
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 7" tvg-logo="https://i.imgur.com/y1VRZnE.png",ESPN 7
+http://187.102.208.209:8000/play/a05a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7" tvg-logo="https://i.imgur.com/y1VRZnE.png",ESPN 7 (DSports)
 #EXTGRP:DEPORTES
 http://8.243.126.131:8000/play/a065/index.m3u8
-#EXTINF:-1 tvg-id="0418" tvg-name="ESPN Premium • Chile" tvg-logo="https://i.imgur.com/glWPW0N.png",ESPN Premium CL
+#EXTINF:-1 tvg-id="0418" tvg-name="ESPN Premium • Chile" tvg-logo="https://i.imgur.com/glWPW0N.png",ESPN Premium
 #EXTGRP:DEPORTES
-http://38.187.3.110:8000/play/a0aq/index.m3u8
-#EXTINF:-1 tvg-id="0418" tvg-name="ESPN Premium • Chile" tvg-logo="https://i.imgur.com/glWPW0N.png",ESPN Premium CL
-#EXTGRP:DEPORTES
-http://38.41.8.1:8000/play/a0t7
-#EXTINF:-1 tvg-id="0418" tvg-name="ESPN Premium • Chile" tvg-logo="https://i.imgur.com/glWPW0N.png",ESPN Premium AR
-#EXTGRP:DEPORTES
-http://138.121.114.91:8000/play/a099/index.m3u8
+http://187.102.208.209:8000/play/a04y/index.m3u8
 #EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium • Chile" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Premium CL HD
 #EXTGRP:DEPORTES
 http://181.78.79.131:8000/play/a0q9
 #EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium • Chile" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Premium 2 
 #EXTGRP:DEPORTES
-http://38.7.223.20:8000/play/a094
+http://187.102.208.209:8000/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="0401" tvg-name="TNT Sports Premium • Chile" tvg-logo="https://i.imgur.com/L9AUhzg.png",TNT Sports Premium SD
 #EXTGRP:DEPORTES
 http://216.155.91.47:8000/play/a0nt/index.m3u8
@@ -74,13 +68,16 @@ http://181.209.125.237:9000/play/a058/index.m3u8
 http://8.243.126.131:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://i.imgur.com/CyZ8dS9.png",DirecTV Sports (op. 2)
 #EXTGRP:DEPORTES
-http://200.59.188.3:8000/play/a0xe
+http://187.102.208.209:8000/play/a09n/index.m3u8
 #EXTINF:-1 tvg-id="0432" tvg-name="DSports 2 • América Latina" tvg-logo="https://i.imgur.com/HecxfZb.png",DirecTV Sports 2
 #EXTGRP:DEPORTES
-http://181.66.249.25:8000/play/a0d2/index.m3u8
+http://187.102.208.209:8000/play/a0bq/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DSports Plus • América Latina" tvg-logo="https://i.imgur.com/jf3LbKl.png",DirecTV Sports +
 #EXTGRP:DEPORTES
 http://217.26.190.76:8888/play/a0jb/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/awdLJ3h.png",L1 MAX
+#EXTGRP:DEPORTES
+http://187.102.208.209:8000/play/a0b5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports LaLiga" tvg-logo="https://i.imgur.com/cnRlKeF.png",Sky Sports LaLiga
 #EXTGRP:DEPORTES
 http://190.92.10.66:4000/play/a001/index.m3u8
@@ -121,9 +118,15 @@ http://181.119.93.83:8000/play/a217/index.m3u8
 #EXTINF:-1 tvg-id="0106" tvg-name="Chilevisión" tvg-logo="https://i.imgur.com/PRijvR0.png",Chilevision
 #EXTGRP:NACIONALES
 http://103.23.62.238:8000/play/a04o
+#EXTINF:-1 tvg-id="0106" tvg-name="Chilevisión" tvg-logo="https://i.imgur.com/PRijvR0.png",Chilevision (2)
+#EXTGRP:NACIONALES
+http://187.102.208.209:8000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-id="0104" tvg-name="TVN.cl" tvg-logo="https://i.imgur.com/3FKZHL4.png",TVN
 #EXTGRP:NACIONALES
 http://138.121.15.230:9002/TVN/index.m3u8
+#EXTINF:-1 tvg-id="0104" tvg-name="TVN.cl" tvg-logo="https://i.imgur.com/3FKZHL4.png",TVN (2)
+#EXTGRP:NACIONALES
+http://187.102.208.209:8000/play/a04l/index.m3u8
 #EXTINF:-1 tvg-id="0117" tvg-logo="https://i.imgur.com/9LEiQPJ.png",TVN3
 #EXTGRP:NACIONALES
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
@@ -138,7 +141,7 @@ https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-id="0107" tvg-name="Canal13.cl" tvg-logo="https://i.imgur.com/zx4Vjpq.png",Canal 13 (Movistar)
 #EXTGRP:NACIONALES
-https://pantera1-100gb-cl-movistar.dps.live/t13radio/t13radio.smil/playlist.m3u8
+http://187.102.208.209:8000/play/a099/index.m3u8
 #EXTINF:-1 tvg-id="0107" tvg-name="Canal13.cl" tvg-logo="https://i.imgur.com/zx4Vjpq.png",Canal 13
 #EXTGRP:NACIONALES
 https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/9f8c1499-d4d8-469f-903a-eca36dc741b4:SCL2/variant/ed68044fabc13545b407e1c2beeee886/bandwidth/1623600.m3u8
@@ -185,9 +188,6 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTGRP:NACIONALES
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PpD5Guw.png",Telemundo
-#EXTGRP:CABLE
-https://streamvidex.qzz.io/videx/telemundo/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hSb8lg3.png",Simpsons Latino 24/7
 #EXTGRP:CABLE
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16064
@@ -199,13 +199,19 @@ http://72.1.184.5:8089/play/a03h/index.m3u8
 http://72.1.184.5:8089/play/a0am/index.m3u8
 #EXTINF:-1 tvg-id="0706" tvg-name="HistoryHD.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/history-channel-ar.png",History HD
 #EXTGRP:CABLE
+http://187.102.208.209:8000/play/a08y/index.m3u8
+#EXTINF:-1 tvg-id="0706" tvg-name="HistoryHD.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/history-channel-ar.png",History HD (2)
+#EXTGRP:CABLE
 http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ElGourmet.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/el-gourmet-ar.png",El Gourmet
 #EXTGRP:CABLE
 http://72.1.184.5:8089/play/a04t/index.m3u8
-#EXTINF:-1 tvg-id="0608" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/food-network-ar.png",Food Network (offline)
+#EXTINF:-1 tvg-id="0608" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/food-network-ar.png",Food Network
 #EXTGRP:CABLE
-
+http://187.102.208.209:8000/play/a0bc/index.m3u8
+#EXTINF:-1 tvg-id="0707" tvg-name="History2LatinAmerica.us" tvg-logo="https://i.imgur.com/IfQyNPh.png",History 2 (2)
+#EXTGRP:CABLE
+http://187.102.208.209:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="0707" tvg-name="History2LatinAmerica.us" tvg-logo="https://i.imgur.com/IfQyNPh.png",History 2
 #EXTGRP:CABLE
 http://138.121.15.230:9002/HISTORY-2/index.m3u8
