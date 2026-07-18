@@ -188,7 +188,8 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTGRP:NACIONALES
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twxJGbZ.png",Via X Esports
-187.102.208.209:8000/play/a06u/index.m3u8
+#EXTGRP:NACIONALES
+http://187.102.208.209:8000/play/a06u/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hSb8lg3.png",Simpsons Latino 24/7
 #EXTGRP:CABLE
