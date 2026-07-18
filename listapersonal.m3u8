@@ -69,6 +69,9 @@ http://8.243.126.131:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://i.imgur.com/CyZ8dS9.png",DirecTV Sports (op. 2)
 #EXTGRP:DEPORTES
 http://187.102.208.209:8000/play/a09n/index.m3u8
+#EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://i.imgur.com/CyZ8dS9.png",DirecTV Sports (op. 3)
+#EXTGRP:DEPORTES
+http://38.252.215.33:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="0432" tvg-name="DSports 2 • América Latina" tvg-logo="https://i.imgur.com/HecxfZb.png",DirecTV Sports 2
 #EXTGRP:DEPORTES
 http://187.102.208.209:8000/play/a0bq/index.m3u8
@@ -86,7 +89,7 @@ http://190.92.10.66:4000/play/a001/index.m3u8
 http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="0409" tvg-name="TyC Sports • Latinoamérica" tvg-logo="https://i.imgur.com/x2AUhUC.png",TyC Sports HD
 #EXTGRP:DEPORTES
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+http://38.252.215.33:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="0409" tvg-name="Tigo Sports" tvg-logo="https://i.imgur.com/GTPYNmV.png",Tigo Sports HD
 #EXTGRP:DEPORTES
 http://72.1.184.5:8089/play/a06i/index.m3u8
@@ -194,6 +197,9 @@ http://187.102.208.209:8000/play/a06u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hSb8lg3.png",Simpsons Latino 24/7
 #EXTGRP:CABLE
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16064
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Kre9gNb.png",Max Anime
+#EXTGRP:CABLE
+http://38.252.215.33:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="0801" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/star-channel-ar.png",Star Channel
 #EXTGRP:CABLE
 http://72.1.184.5:8089/play/a03h/index.m3u8
