@@ -187,6 +187,8 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UCVTV.cl" tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png",UCV TV
 #EXTGRP:NACIONALES
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/twxJGbZ.png",Via X Esports
+187.102.208.209:8000/play/a06u/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hSb8lg3.png",Simpsons Latino 24/7
 #EXTGRP:CABLE
@@ -194,6 +196,9 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16064
 #EXTINF:-1 tvg-id="0801" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/star-channel-ar.png",Star Channel
 #EXTGRP:CABLE
 http://72.1.184.5:8089/play/a03h/index.m3u8
+#EXTINF:-1 tvg-id="0801" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/star-channel-ar.png",Star Channel HD
+#EXTGRP:CABLE
+http://187.102.208.209:8000/play/a09i/index.m3u8
 #EXTINF:-1 tvg-id="0706" tvg-name="HistoryHD.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/history-channel-ar.png",History
 #EXTGRP:CABLE
 http://72.1.184.5:8089/play/a0am/index.m3u8
@@ -227,6 +232,9 @@ http://72.1.184.5:8089/play/a063/index.m3u8
 #EXTINF:-1 tvg-id="0702" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/national-geographic-ar.png",NATGEO
 #EXTGRP:CABLE
 http://72.1.184.5:8089/play/a05v/index.m3u8
+#EXTINF:-1 tvg-id="0702" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/national-geographic-ar.png",NATGEO HD
+#EXTGRP:CABLE
+http://187.102.208.209:8000/play/a08z/index.m3u8
 #EXTINF:-1 tvg-id="0705" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/animal-planet-ar.png",ANIMAL PLANET
 #EXTGRP:CABLE
 http://72.1.184.5:8089/play/a05c/index.m3u8
@@ -248,6 +256,9 @@ http://72.1.184.5:8089/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="0840" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cinemax-ar.png",CINEMAX
 #EXTGRP:CABLE
 http://72.1.184.5:8089/play/a09i/index.m3u8
+#EXTINF:-1 tvg-id="0840" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cinemax-ar.png",CINEMAX HD
+#EXTGRP:CABLE
+http://187.102.208.209:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="0808" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/a-and-e-ar.png",AE
 #EXTGRP:CABLE
 http://72.1.184.5:8089/play/a05f/index.m3u8
@@ -266,15 +277,15 @@ http://72.1.184.5:8089/play/a09v/index.m3u8
 #EXTINF:-1 tvg-id="0821" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/golden-mx.png",GOLDEN
 #EXTGRP:CABLE
 http://72.1.184.5:8089/play/a08w/index.m3u8
-#EXTINF:-1 tvg-id="0822" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/golden-plus-mx.png",GOLDEN PLUS (offline)
+#EXTINF:-1 tvg-id="0823" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/golden-edge-mx.png",GOLDEN EDGE
 #EXTGRP:CABLE
-
-#EXTINF:-1 tvg-id="0823" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/golden-edge-mx.png",GOLDEN EDGE (offline)
-#EXTGRP:CABLE
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/hbo-ar.png",HBO HD
+http://187.102.208.209:8000/play/a06x/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/hbo-ar.png",HBO
 #EXTGRP:CABLE
 http://72.1.184.5:8089/play/a07o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/hbo-ar.png",HBO HD
+#EXTGRP:CABLE
+http://187.102.208.209:8000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-id="0805" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/tnt-ar.png",TNT
 #EXTGRP:CABLE
 http://72.1.184.5:8089/play/a06p/index.m3u8
