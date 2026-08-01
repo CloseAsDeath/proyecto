@@ -5,7 +5,7 @@
 https://streaming.magentamusik.de/vod/WW/WOA2026_InFlames/hd/9000/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=",STAGE 1
 #EXTGRP:METAL
-https://svc42.main.sl.t-online.de/bpk-tv/mm001_hd/HLS_CMAF/mm001_hd-video=576400.m3u8
+https://svc42.main.sl.t-online.de/bpk-tv/mm001_hd/HLS_CMAF/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=",STAGE 2
 #EXTGRP:METAL
 https://svc42.main.sl.t-online.de/bpk-tv/mm002_hd/HLS_CMAF/index.m3u8
