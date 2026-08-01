@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTM3U url-tvg="https://raw.githubusercontent.com/InfoTV-CL/INFOCLTV/main/guia-de-programacion.xml"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=",IN FLAMES WACKEN 2026
+#EXTGRP:METAL
+https://streaming.magentamusik.de/vod/WW/WOA2026_InFlames/hd/9000/index.m3u8
+
 #EXTINF:-1 tvg-id="0411" tvg-name="ESPN • Chile" tvg-logo="https://i.imgur.com/8lG0Nb7.png",ESPN CL (Offline)
 #EXTGRP:DEPORTES
 http://38.7.195.45:8000/play/a01b
